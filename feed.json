@@ -1,0 +1,58 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Maja Vrancich",
+    "description": "",
+    "home_page_url": "https://maja.vrancich.com",
+    "feed_url": "https://maja.vrancich.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Maja Vrancich"
+    },
+    "items": [
+        {
+            "id": "https://maja.vrancich.com/sport.html",
+            "url": "https://maja.vrancich.com/sport.html",
+            "title": "Sport",
+            "summary": "Prošlost: trenirala sam jedrenje 5 godina (od kraja osnovne škole do upisa na fakultet) u J.K. Opatija, u klasama optimist i europa. Kroz razdoblje studija počinjem planinariti i upisujem alpinistički tečaj kojeg završavam na proljeće 2007. godine. Od tada se bavim svakavim oblicima koji su&hellip;",
+            "content_html": "<p>Prošlost: trenirala sam jedrenje 5 godina (od kraja osnovne škole do upisa na fakultet) u J.K. Opatija, u klasama optimist i europa. Kroz razdoblje studija počinjem planinariti i upisujem alpinistički tečaj kojeg završavam na proljeće 2007. godine. Od tada se bavim svakavim oblicima koji su uključeni u taj sport, od treninga na umjetnim stijenama i natjecanja, treniranja djece i vođenje njih na natjecanja, preko penjanja sportskih smjerova, ljetnog alpinizma, dry toolinga, natjcanja u dry toolingu pa sve do zimskog alpinizma s kojim sam počela koketirati zadnjih godina. Nakon rođenja djeteta sam počela i malo aktivnije trenirati trčanje (isključivo u prirodi: trail ili track).</p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG2.jpg\" ><img src=\"https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG2-thumbnail.jpg\" alt=\"2015 Dry tooling natjecanje - Zagreb\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">2015 Dry tooling natjecanje - Zagreb</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG1.jpg\" ><img src=\"https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG1-thumbnail.jpg\" alt=\"2015 Dry tooling natjecanje - Zagreb\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">2015 Dry tooling natjecanje - Zagreb</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG3.jpg\" ><img src=\"https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG3-thumbnail.jpg\" alt=\"2015 Dry tooling natjecanje - Zagreb\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">2015 Dry tooling natjecanje - Zagreb</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://maja.vrancich.com/media/posts/3/gallery/2013_BLIK_Pula.jpg\" ><img src=\"https://maja.vrancich.com/media/posts/3/gallery/2013_BLIK_Pula-thumbnail.jpg\" alt=\"2015 BLIK Pula\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">2015 BLIK Pula</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://maja.vrancich.com/media/posts/3/gallery/2015_penj_cimadellamadona.jpg\" ><img src=\"https://maja.vrancich.com/media/posts/3/gallery/2015_penj_cimadellamadona-thumbnail.jpg\" alt=\"2015 Passo Rolle\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">2015 Passo Rolle</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://maja.vrancich.com/media/posts/3/gallery/2015_penj_Tognazza.jpg\" ><img src=\"https://maja.vrancich.com/media/posts/3/gallery/2015_penj_Tognazza-thumbnail.jpg\" alt=\"2015 Passo Rolle\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">2015 Passo Rolle</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://maja.vrancich.com/media/posts/3/gallery/2015_led.JPG\" ><img src=\"https://maja.vrancich.com/media/posts/3/gallery/2015_led-thumbnail.JPG\" alt=\"2015 Serrai Di Sottoguda\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">2015 Serrai Di Sottoguda</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://maja.vrancich.com/media/posts/3/gallery/2015_led_SerraiDiSotoguda.JPG\" ><img src=\"https://maja.vrancich.com/media/posts/3/gallery/2015_led_SerraiDiSotoguda-thumbnail.JPG\" alt=\"2015 Serrai Di Sottoguda\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">2015 Serrai Di Sottoguda</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja.JPG\" ><img src=\"https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja-thumbnail.JPG\" alt=\"2012 Medveja\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">2012 Medveja</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja2.JPG\" ><img src=\"https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja2-thumbnail.JPG\" alt=\"2012 Medveja\" width=\"240\" height=\"240\"></a>\n<figcaption class=\"gallery-description\">2012 Medveja - Nino</figcaption>\n</figure>\n</div>",
+            "image": "https://maja.vrancich.com/media/posts/3/",
+            "author": {
+                "name": "Maja Vrancich"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-26T14:44:10+01:00",
+            "date_modified": "2019-01-26T15:29:33+01:00"
+        },
+        {
+            "id": "https://maja.vrancich.com/znanost.html",
+            "url": "https://maja.vrancich.com/znanost.html",
+            "title": "Znanost",
+            "summary": "2018./'19. upisujem doktorski studij informatike. Trenutno sam u svojim počecima. Nadam se dobrim temeljima i velikim uspjesima kroz vrijeme. Moj javni profil možete pogledati klikom na link.",
+            "content_html": "<p>2018./'19. upisujem doktorski studij informatike. Trenutno sam u svojim počecima. Nadam se dobrim temeljima i velikim uspjesima kroz vrijeme.</p>\n<p>Moj javni profil možete pogledati <a href=\"https://portal.uniri.hr/Portfelj/3921\" title=\"Portfelj\">klikom na link</a>.</p>",
+            "image": "https://maja.vrancich.com/media/posts/2/",
+            "author": {
+                "name": "Maja Vrancich"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-26T14:38:22+01:00",
+            "date_modified": "2019-01-26T14:38:22+01:00"
+        },
+        {
+            "id": "https://maja.vrancich.com/about-me.html",
+            "url": "https://maja.vrancich.com/about-me.html",
+            "title": "O meni",
+            "summary": "Ja sam Maja Vrancich. Po zvanju sam profesor sam informatike i filozofije. Trenutno sam zaposlena kao asistent na Odjelu za informatiku, Sveučilišta u Rijeci. Ujedno sam i student početnik (doktorski studij). Ranije sam radila (6 godina) u nekoliko srednjih škola. U slobodno vrijeme sam mama, supruga,&hellip;",
+            "content_html": "<p>Ja sam Maja Vrancich. </p>\n<p>Po zvanju sam profesor sam informatike i filozofije. Trenutno sam zaposlena kao asistent na Odjelu za informatiku, Sveučilišta u Rijeci. Ujedno sam i student početnik (doktorski studij). Ranije sam radila (6 godina) u nekoliko srednjih škola.</p>\n<p>U slobodno vrijeme sam mama, supruga, alpinist, sportski penjač, planinar, trkač, svašta po malo :)</p>\n<p> </p>",
+            "image": "https://maja.vrancich.com/media/posts/1/",
+            "author": {
+                "name": "Maja Vrancich"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-07T14:26:34+01:00",
+            "date_modified": "2019-01-26T14:35:34+01:00"
+        }
+    ]
+}
