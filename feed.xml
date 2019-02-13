@@ -3,32 +3,87 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2019-02-13T14:17:44+01:00</updated>
+    <updated>2019-02-13T14:32:10+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
     <id>https://maja.vrancich.com</id>
 
     <entry>
-        <title>Alpinizam - proba</title>
+        <title>Moj amaterski sport</title>
+        <author>
+            <name>Maja Vrancich</name>
+        </author>
+        <link href="https://maja.vrancich.com/sport.html"/>
+        <id>https://maja.vrancich.com/sport.html</id>
+            <category term="Sport"/>
+
+        <updated>2019-02-13T14:27:02+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://maja.vrancich.com/media/posts/3/" alt="" />
+                    Kada sam bila mala, bilo je normalno trčati oko kuće, padati sa zidova i penjati se po stablima. Tada sam bila normalna. Krajem osnovne škole sam počela trenirati jedrenje i proživljavala sam svakakve strahove, napore i uspjehe u idućih 5 godina u J.K. Opatija, u&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://maja.vrancich.com/media/posts/3/" alt="" />
+                <p>Kada sam bila mala, bilo je normalno trčati oko kuće, padati sa zidova i penjati se po stablima. Tada sam bila normalna. Krajem osnovne škole sam počela trenirati jedrenje i proživljavala sam svakakve strahove, napore i uspjehe u idućih 5 godina u J.K. Opatija, u klasama optimist i europa. Kroz razdoblje studija počinjem planinariti i upisujem alpinistički tečaj u Riječkom alpinističkom klubu, kojeg i završavam na proljeće 2007. godine. Od tada se bavim svakavim oblicima koji su uključeni u taj sport, od treninga na umjetnim stijenama i natjecanja, treniranja djece i vođenje njih na natjecanja, preko penjanja sportskih smjerova, ljetnog alpinizma, dry toolinga, natjcanja u dry toolingu pa sve do zimskog alpinizma s kojim sam počela koketirati zadnjih godina. Nakon rođenja djeteta sam počela i malo aktivnije trenirati trčanje (isključivo u prirodi: trail ili track).</p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG2.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG2-thumbnail.jpg" alt="2015 Dry tooling natjecanje - Zagreb" width="240" height="240"></a>
+<figcaption class="gallery-description">2015 Dry tooling natjecanje - Zagreb</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG1.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG1-thumbnail.jpg" alt="2015 Dry tooling natjecanje - Zagreb" width="240" height="240"></a>
+<figcaption class="gallery-description">2015 Dry tooling natjecanje - Zagreb</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG3.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG3-thumbnail.jpg" alt="2015 Dry tooling natjecanje - Zagreb" width="240" height="240"></a>
+<figcaption class="gallery-description">2015 Dry tooling natjecanje - Zagreb</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2013_BLIK_Pula.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2013_BLIK_Pula-thumbnail.jpg" alt="2015 BLIK Pula" width="240" height="240"></a>
+<figcaption class="gallery-description">2015 BLIK Pula</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_penj_cimadellamadona.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_penj_cimadellamadona-thumbnail.jpg" alt="2015 Passo Rolle" width="240" height="240"></a>
+<figcaption class="gallery-description">2015 Passo Rolle</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_penj_Tognazza.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_penj_Tognazza-thumbnail.jpg" alt="2015 Passo Rolle" width="240" height="240"></a>
+<figcaption class="gallery-description">2015 Passo Rolle</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_led.JPG" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_led-thumbnail.JPG" alt="2015 Serrai Di Sottoguda" width="240" height="240"></a>
+<figcaption class="gallery-description">2015 Serrai Di Sottoguda</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_led_SerraiDiSotoguda.JPG" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_led_SerraiDiSotoguda-thumbnail.JPG" alt="2015 Serrai Di Sottoguda" width="240" height="240"></a>
+<figcaption class="gallery-description">2015 Serrai Di Sottoguda</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja.JPG" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja-thumbnail.JPG" alt="2012 Medveja" width="240" height="240"></a>
+<figcaption class="gallery-description">2012 Medveja</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja2.JPG" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja2-thumbnail.JPG" alt="2012 Medveja" width="240" height="240"></a>
+<figcaption class="gallery-description">2012 Medveja - Nino</figcaption>
+</figure>
+</div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Znanost</title>
         <author>
             <name>Maja Vrancich</name>
         </author>
         <link href="https://maja.vrancich.com/alpinizam-proba.html"/>
         <id>https://maja.vrancich.com/alpinizam-proba.html</id>
-            <category term="Sport"/>
+            <category term="Znanost"/>
 
-        <updated>2019-02-13T14:14:19+01:00</updated>
+        <updated>2019-02-13T14:31:31+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maja.vrancich.com/media/posts/6/" alt="" />
-                    Ovo je probni pist koji će nestati, trebam se uvjeriti da tagovi rade.
+                    Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://maja.vrancich.com/media/posts/6/" alt="" />
-                Ovo je probni pist koji će nestati, trebam se uvjeriti da tagovi rade.
+                Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)
             ]]>
         </content>
     </entry>
@@ -99,8 +154,10 @@
         </author>
         <link href="https://maja.vrancich.com/about-me.html"/>
         <id>https://maja.vrancich.com/about-me.html</id>
+            <category term="Znanost"/>
+            <category term="Sport"/>
 
-        <updated>2019-02-13T14:07:36+01:00</updated>
+        <updated>2019-02-13T14:32:06+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maja.vrancich.com/media/posts/1/" alt="" />
