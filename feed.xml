@@ -3,12 +3,35 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2019-02-13T14:12:41+01:00</updated>
+    <updated>2019-02-13T14:17:44+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
     <id>https://maja.vrancich.com</id>
 
+    <entry>
+        <title>Alpinizam - proba</title>
+        <author>
+            <name>Maja Vrancich</name>
+        </author>
+        <link href="https://maja.vrancich.com/alpinizam-proba.html"/>
+        <id>https://maja.vrancich.com/alpinizam-proba.html</id>
+            <category term="Sport"/>
+
+        <updated>2019-02-13T14:14:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://maja.vrancich.com/media/posts/6/" alt="" />
+                    Ovo je probni pist koji će nestati, trebam se uvjeriti da tagovi rade.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://maja.vrancich.com/media/posts/6/" alt="" />
+                Ovo je probni pist koji će nestati, trebam se uvjeriti da tagovi rade.
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Sretno Valentinovo</title>
         <author>

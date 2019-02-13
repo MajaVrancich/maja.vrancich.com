@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://maja.vrancich.com/alpinizam-proba.html",
+            "url": "https://maja.vrancich.com/alpinizam-proba.html",
+            "title": "Alpinizam - proba",
+            "summary": "Ovo je probni pist koji će nestati, trebam se uvjeriti da tagovi rade.",
+            "content_html": "Ovo je probni pist koji će nestati, trebam se uvjeriti da tagovi rade.",
+            "image": "https://maja.vrancich.com/media/posts/6/",
+            "author": {
+                "name": "Maja Vrancich"
+            },
+            "tags": [
+                   "Sport"
+            ],
+            "date_published": "2019-02-13T14:14:19+01:00",
+            "date_modified": "2019-02-13T14:14:19+01:00"
+        },
+        {
             "id": "https://maja.vrancich.com/sretno-valentinovo.html",
             "url": "https://maja.vrancich.com/sretno-valentinovo.html",
             "title": "Sretno Valentinovo",
