@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2019-02-13T14:39:26+01:00</updated>
+    <updated>2019-02-13T14:41:27+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -148,7 +148,7 @@
         </content>
     </entry>
     <entry>
-        <title>Najnoviji postovi</title>
+        <title>Početni post</title>
         <author>
             <name>Maja Vrancich</name>
         </author>
@@ -157,7 +157,7 @@
             <category term="Znanost"/>
             <category term="Sport"/>
 
-        <updated>2019-02-13T14:32:06+01:00</updated>
+        <updated>2019-02-13T14:41:21+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maja.vrancich.com/media/posts/1/" alt="" />

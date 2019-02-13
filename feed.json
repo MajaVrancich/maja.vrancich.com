@@ -60,7 +60,7 @@
         {
             "id": "https://maja.vrancich.com/about-me.html",
             "url": "https://maja.vrancich.com/about-me.html",
-            "title": "Najnoviji postovi",
+            "title": "Početni post",
             "summary": " Dobrodošli, uživajte u sadržajima koji će po malo izrastati na ovome tlu :) ",
             "content_html": "<p> </p>\n<p>Dobrodošli, uživajte u sadržajima koji će po malo izrastati na ovome tlu :)</p>\n<p><img src=\"https://maja.vrancich.com/media/posts/1/IMG_1807.jpg\" alt=\"Vela Draga\" width=\"391\" height=\"587\"></p>",
             "image": "https://maja.vrancich.com/media/posts/1/",
@@ -72,7 +72,7 @@
                    "Sport"
             ],
             "date_published": "2018-12-07T14:26:34+01:00",
-            "date_modified": "2019-02-13T14:32:06+01:00"
+            "date_modified": "2019-02-13T14:41:21+01:00"
         }
     ]
 }
