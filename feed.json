@@ -28,9 +28,9 @@
         {
             "id": "https://maja.vrancich.com/about-me.html",
             "url": "https://maja.vrancich.com/about-me.html",
-            "title": "O meni",
-            "summary": "Ja sam Maja Vrancich. Po zvanju sam profesor informatike i filozofije. Trenutno sam zaposlena kao asistent na Odjelu za informatiku, Sveučilišta u Rijeci. Ujedno sam i student početnik (doktorski studij). Ranije sam radila (6 godina) u nekoliko srednjih škola. U slobodno vrijeme sam mama, supruga, alpinist,&hellip;",
-            "content_html": "<p>Ja sam Maja Vrancich. </p>\n<p><img src=\"https://maja.vrancich.com/media/posts/1/IMG_20181019_123613.jpg\" alt=\"Maja Vrancich\" width=\"195\" height=\"146\"></p>\n<p>Po zvanju sam profesor informatike i filozofije. Trenutno sam zaposlena kao asistent na Odjelu za informatiku, Sveučilišta u Rijeci. Ujedno sam i student početnik (doktorski studij). Ranije sam radila (6 godina) u nekoliko srednjih škola.</p>\n<p>U slobodno vrijeme sam mama, supruga, alpinist, sportski penjač, planinar, trkač, svašta po malo :)</p>\n<p> </p>",
+            "title": "Najnoviji postovi",
+            "summary": " Dobrodošli, uživajte u sadržajima koji će po malo izrastati na ovome tlu :) ",
+            "content_html": "<p> </p>\n<p>Dobrodošli, uživajte u sadržajima koji će po malo izrastati na ovome tlu :)</p>\n<p><img src=\"https://maja.vrancich.com/media/posts/1/IMG_1807.jpg\" alt=\"Vela Draga\" width=\"391\" height=\"587\"></p>",
             "image": "https://maja.vrancich.com/media/posts/1/",
             "author": {
                 "name": "Maja Vrancich"
@@ -38,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2018-12-07T14:26:34+01:00",
-            "date_modified": "2019-01-28T09:00:07+01:00"
+            "date_modified": "2019-02-13T14:07:36+01:00"
         }
     ]
 }

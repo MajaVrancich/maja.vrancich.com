@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2019-02-13T13:34:06+01:00</updated>
+    <updated>2019-02-13T14:09:00+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -69,28 +69,26 @@
         </content>
     </entry>
     <entry>
-        <title>O meni</title>
+        <title>Najnoviji postovi</title>
         <author>
             <name>Maja Vrancich</name>
         </author>
         <link href="https://maja.vrancich.com/about-me.html"/>
         <id>https://maja.vrancich.com/about-me.html</id>
 
-        <updated>2019-01-28T09:00:07+01:00</updated>
+        <updated>2019-02-13T14:07:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maja.vrancich.com/media/posts/1/" alt="" />
-                    Ja sam Maja Vrancich. Po zvanju sam profesor informatike i filozofije. Trenutno sam zaposlena kao asistent na Odjelu za informatiku, Sveučilišta u Rijeci. Ujedno sam i student početnik (doktorski studij). Ranije sam radila (6 godina) u nekoliko srednjih škola. U slobodno vrijeme sam mama, supruga, alpinist,&hellip;
+                     Dobrodošli, uživajte u sadržajima koji će po malo izrastati na ovome tlu :) 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://maja.vrancich.com/media/posts/1/" alt="" />
-                <p>Ja sam Maja Vrancich. </p>
-<p><img src="https://maja.vrancich.com/media/posts/1/IMG_20181019_123613.jpg" alt="Maja Vrancich" width="195" height="146"></p>
-<p>Po zvanju sam profesor informatike i filozofije. Trenutno sam zaposlena kao asistent na Odjelu za informatiku, Sveučilišta u Rijeci. Ujedno sam i student početnik (doktorski studij). Ranije sam radila (6 godina) u nekoliko srednjih škola.</p>
-<p>U slobodno vrijeme sam mama, supruga, alpinist, sportski penjač, planinar, trkač, svašta po malo :)</p>
-<p> </p>
+                <p> </p>
+<p>Dobrodošli, uživajte u sadržajima koji će po malo izrastati na ovome tlu :)</p>
+<p><img src="https://maja.vrancich.com/media/posts/1/IMG_1807.jpg" alt="Vela Draga" width="391" height="587"></p>
             ]]>
         </content>
     </entry>
