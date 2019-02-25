@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://maja.vrancich.com/znanost-2.html",
+            "url": "https://maja.vrancich.com/znanost-2.html",
+            "title": "Znanost",
+            "summary": "Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)",
+            "content_html": "Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)",
+            "image": "https://maja.vrancich.com/media/posts/6/",
+            "author": {
+                "name": "Maja Vrancich"
+            },
+            "tags": [
+                   "Znanost"
+            ],
+            "date_published": "2019-02-15T10:05:00+01:00",
+            "date_modified": "2019-02-25T10:07:21+01:00"
+        },
+        {
             "id": "https://maja.vrancich.com/sport.html",
             "url": "https://maja.vrancich.com/sport.html",
             "title": "Moj amaterski sport",
@@ -24,22 +40,6 @@
             ],
             "date_published": "2019-02-13T14:27:02+01:00",
             "date_modified": "2019-02-13T14:27:02+01:00"
-        },
-        {
-            "id": "https://maja.vrancich.com/alpinizam-proba.html",
-            "url": "https://maja.vrancich.com/alpinizam-proba.html",
-            "title": "Znanost",
-            "summary": "Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)",
-            "content_html": "Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)",
-            "image": "https://maja.vrancich.com/media/posts/6/",
-            "author": {
-                "name": "Maja Vrancich"
-            },
-            "tags": [
-                   "Znanost"
-            ],
-            "date_published": "2019-02-13T14:14:19+01:00",
-            "date_modified": "2019-02-13T14:31:31+01:00"
         },
         {
             "id": "https://maja.vrancich.com/sretno-valentinovo.html",
@@ -58,8 +58,8 @@
             "date_modified": "2019-02-13T14:56:01+01:00"
         },
         {
-            "id": "https://maja.vrancich.com/about-me.html",
-            "url": "https://maja.vrancich.com/about-me.html",
+            "id": "https://maja.vrancich.com/pocetni-post.html",
+            "url": "https://maja.vrancich.com/pocetni-post.html",
             "title": "Početni post",
             "summary": " Dobrodošli, uživajte u sadržajima koji će po malo izrastati na ovome tlu :) ",
             "content_html": "<p> </p>\n<p>Dobrodošli, uživajte u sadržajima koji će po malo izrastati na ovome tlu :)</p>\n<p><img src=\"https://maja.vrancich.com/media/posts/1/IMG_1807.jpg\" alt=\"Vela Draga\" width=\"391\" height=\"587\"></p>",
@@ -71,8 +71,8 @@
                    "Znanost",
                    "Sport"
             ],
-            "date_published": "2018-12-07T14:26:34+01:00",
-            "date_modified": "2019-02-13T14:55:50+01:00"
+            "date_published": "2019-02-12T10:06:00+01:00",
+            "date_modified": "2019-02-25T10:06:53+01:00"
         }
     ]
 }

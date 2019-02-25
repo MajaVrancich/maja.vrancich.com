@@ -3,12 +3,35 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2019-02-13T14:56:07+01:00</updated>
+    <updated>2019-02-25T10:07:30+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
     <id>https://maja.vrancich.com</id>
 
+    <entry>
+        <title>Znanost</title>
+        <author>
+            <name>Maja Vrancich</name>
+        </author>
+        <link href="https://maja.vrancich.com/znanost-2.html"/>
+        <id>https://maja.vrancich.com/znanost-2.html</id>
+            <category term="Znanost"/>
+
+        <updated>2019-02-25T10:07:21+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://maja.vrancich.com/media/posts/6/" alt="" />
+                    Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://maja.vrancich.com/media/posts/6/" alt="" />
+                Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Moj amaterski sport</title>
         <author>
@@ -61,29 +84,6 @@
 <figcaption class="gallery-description">2012 Medveja - Nino</figcaption>
 </figure>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Znanost</title>
-        <author>
-            <name>Maja Vrancich</name>
-        </author>
-        <link href="https://maja.vrancich.com/alpinizam-proba.html"/>
-        <id>https://maja.vrancich.com/alpinizam-proba.html</id>
-            <category term="Znanost"/>
-
-        <updated>2019-02-13T14:31:31+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://maja.vrancich.com/media/posts/6/" alt="" />
-                    Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://maja.vrancich.com/media/posts/6/" alt="" />
-                Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)
             ]]>
         </content>
     </entry>
@@ -152,12 +152,12 @@
         <author>
             <name>Maja Vrancich</name>
         </author>
-        <link href="https://maja.vrancich.com/about-me.html"/>
-        <id>https://maja.vrancich.com/about-me.html</id>
+        <link href="https://maja.vrancich.com/pocetni-post.html"/>
+        <id>https://maja.vrancich.com/pocetni-post.html</id>
             <category term="Znanost"/>
             <category term="Sport"/>
 
-        <updated>2019-02-13T14:55:50+01:00</updated>
+        <updated>2019-02-25T10:06:53+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maja.vrancich.com/media/posts/1/" alt="" />
