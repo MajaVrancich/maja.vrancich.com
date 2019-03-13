@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2019-03-13T17:20:31+01:00</updated>
+    <updated>2019-03-13T17:32:16+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://maja.vrancich.com/women-in-data-science-wids.html</id>
             <category term="Znanost"/>
 
-        <updated>2019-03-13T17:20:22+01:00</updated>
+        <updated>2019-03-13T17:32:12+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maja.vrancich.com/media/posts/7/" alt="" />
@@ -31,6 +31,7 @@
                 <p>Nedavno se održala konfenercija pod nazivom <a href="https://www.widsconference.org/" target="_blank" rel="noopener noreferrer">Women in Data Science</a> na Stanfordu. Konferencija se počela održavati 2015. godine, a razlog njenog pokretanja je bio taj što je jako malo žena u znanosti općenito, a pogotovo u području znanosti o podacima. Desetljeća su prošla, bez da se situacija o zastupljenosti žena značajno poveća, ali vjerujem da živimo u vremenu prekretnice.</p>
 <p>Genijalno je i to što osim sudjelovanja na samoj konferenciji možemo slušati <a href="https://www.widsconference.org/podcast.html" target="_blank" rel="noopener noreferrer">podcaste</a> tj. audio intervjue sa raznim inspirativnim ženama iz tog područja. Mene je oduševilo, nadam se da će i vas :)</p>
 <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/yF64nm8mUhA" allowfullscreen="allowfullscreen" ></iframe></figure>
+<p>Ove godine, <a href="https://widscroatia.com/">WiDS se održao i u Osijeku</a> zahvaljujući Stefani Majić i Mateji Hržici.</p>
             ]]>
         </content>
     </entry>
