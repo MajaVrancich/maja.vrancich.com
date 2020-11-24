@@ -1,201 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Maja Vrancich</title>
+    <title>maja.vrancich.com</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2019-04-11T09:48:55+02:00</updated>
+    <updated>2020-11-24T20:56:02+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
     <id>https://maja.vrancich.com</id>
 
     <entry>
-        <title>Women in Data Science (WiDS)</title>
+        <title>Dobrodošli</title>
         <author>
             <name>Maja Vrancich</name>
         </author>
-        <link href="https://maja.vrancich.com/women-in-data-science-wids.html"/>
-        <id>https://maja.vrancich.com/women-in-data-science-wids.html</id>
-            <category term="Znanost"/>
+        <link href="https://maja.vrancich.com/dobrodosli.html"/>
+        <id>https://maja.vrancich.com/dobrodosli.html</id>
 
-        <updated>2019-03-13T17:32:12+01:00</updated>
+        <updated>2020-11-24T20:03:02+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://maja.vrancich.com/media/posts/7/" alt="" />
-                    Nedavno se održala konfenercija pod nazivom Women in Data Science na Stanfordu. Konferencija se počela održavati 2015. godine, a razlog njenog pokretanja je bio taj što je jako malo žena u znanosti općenito, a pogotovo u području znanosti o podacima. Desetljeća su prošla, bez da&hellip;
+                    [{"id":1555941466744,"type":"publii-paragraph","content":"Zovem se Maja Vrancich. Kako bi jedna pjesma rekla \"ja sam sto ljudi na dan\", ono čime se jako ponosim je to što sam učiteljica, majka i rekreativna sportašica. Pokušati ću voditi blog o nekoliko meni zanimljivih tema za koje se nadam da će i&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://maja.vrancich.com/media/posts/7/" alt="" />
-                <p>Nedavno se održala konfenercija pod nazivom <a href="https://www.widsconference.org/" target="_blank" rel="noopener noreferrer">Women in Data Science</a> na Stanfordu. Konferencija se počela održavati 2015. godine, a razlog njenog pokretanja je bio taj što je jako malo žena u znanosti općenito, a pogotovo u području znanosti o podacima. Desetljeća su prošla, bez da se situacija o zastupljenosti žena značajno poveća, ali vjerujem da živimo u vremenu prekretnice.</p>
-<p>Genijalno je i to što osim sudjelovanja na samoj konferenciji možemo slušati <a href="https://www.widsconference.org/podcast.html" target="_blank" rel="noopener noreferrer">podcaste</a> tj. audio intervjue sa raznim inspirativnim ženama iz tog područja. Mene je oduševilo, nadam se da će i vas :)</p>
-<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/yF64nm8mUhA" allowfullscreen="allowfullscreen" ></iframe></figure>
-<p>Ove godine, <a href="https://widscroatia.com/">WiDS se održao i u Osijeku</a> zahvaljujući Stefani Majić i Mateji Hržici.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Znanost</title>
-        <author>
-            <name>Maja Vrancich</name>
-        </author>
-        <link href="https://maja.vrancich.com/znanost-2.html"/>
-        <id>https://maja.vrancich.com/znanost-2.html</id>
-            <category term="Znanost"/>
-
-        <updated>2019-02-25T10:07:21+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://maja.vrancich.com/media/posts/6/" alt="" />
-                    Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://maja.vrancich.com/media/posts/6/" alt="" />
-                Imam u planu pomoći sebi i drugima sa člankom koji bi trebao objasniti što su to članci, što znače koje oznake i mjesto objave, koliko toga se treba objaviti u kojem vremenskom roku i kako to napraviti. Nadam se skoroj objavi :)
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Moj amaterski sport</title>
-        <author>
-            <name>Maja Vrancich</name>
-        </author>
-        <link href="https://maja.vrancich.com/sport.html"/>
-        <id>https://maja.vrancich.com/sport.html</id>
-            <category term="Sport"/>
-
-        <updated>2019-02-13T14:27:02+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://maja.vrancich.com/media/posts/3/" alt="" />
-                    Kada sam bila mala, bilo je normalno trčati oko kuće, padati sa zidova i penjati se po stablima. Tada sam bila normalna. Krajem osnovne škole sam počela trenirati jedrenje i proživljavala sam svakakve strahove, napore i uspjehe u idućih 5 godina u J.K. Opatija, u&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://maja.vrancich.com/media/posts/3/" alt="" />
-                <p>Kada sam bila mala, bilo je normalno trčati oko kuće, padati sa zidova i penjati se po stablima. Tada sam bila normalna. Krajem osnovne škole sam počela trenirati jedrenje i proživljavala sam svakakve strahove, napore i uspjehe u idućih 5 godina u J.K. Opatija, u klasama optimist i europa. Kroz razdoblje studija počinjem planinariti i upisujem alpinistički tečaj u Riječkom alpinističkom klubu, kojeg i završavam na proljeće 2007. godine. Od tada se bavim svakavim oblicima koji su uključeni u taj sport, od treninga na umjetnim stijenama i natjecanja, treniranja djece i vođenje njih na natjecanja, preko penjanja sportskih smjerova, ljetnog alpinizma, dry toolinga, natjcanja u dry toolingu pa sve do zimskog alpinizma s kojim sam počela koketirati zadnjih godina. Nakon rođenja djeteta sam počela i malo aktivnije trenirati trčanje (isključivo u prirodi: trail ili track).</p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG2.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG2-thumbnail.jpg" alt="2015 Dry tooling natjecanje - Zagreb" width="240" height="240"></a>
-<figcaption class="gallery-description">2015 Dry tooling natjecanje - Zagreb</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG1.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG1-thumbnail.jpg" alt="2015 Dry tooling natjecanje - Zagreb" width="240" height="240"></a>
-<figcaption class="gallery-description">2015 Dry tooling natjecanje - Zagreb</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG3.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_dry_tooling_ZG3-thumbnail.jpg" alt="2015 Dry tooling natjecanje - Zagreb" width="240" height="240"></a>
-<figcaption class="gallery-description">2015 Dry tooling natjecanje - Zagreb</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2013_BLIK_Pula.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2013_BLIK_Pula-thumbnail.jpg" alt="2015 BLIK Pula" width="240" height="240"></a>
-<figcaption class="gallery-description">2015 BLIK Pula</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_penj_cimadellamadona.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_penj_cimadellamadona-thumbnail.jpg" alt="2015 Passo Rolle" width="240" height="240"></a>
-<figcaption class="gallery-description">2015 Passo Rolle</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_penj_Tognazza.jpg" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_penj_Tognazza-thumbnail.jpg" alt="2015 Passo Rolle" width="240" height="240"></a>
-<figcaption class="gallery-description">2015 Passo Rolle</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_led.JPG" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_led-thumbnail.JPG" alt="2015 Serrai Di Sottoguda" width="240" height="240"></a>
-<figcaption class="gallery-description">2015 Serrai Di Sottoguda</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2015_led_SerraiDiSotoguda.JPG" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2015_led_SerraiDiSotoguda-thumbnail.JPG" alt="2015 Serrai Di Sottoguda" width="240" height="240"></a>
-<figcaption class="gallery-description">2015 Serrai Di Sottoguda</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja.JPG" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja-thumbnail.JPG" alt="2012 Medveja" width="240" height="240"></a>
-<figcaption class="gallery-description">2012 Medveja</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja2.JPG" ><img src="https://maja.vrancich.com/media/posts/3/gallery/2012_penj_Medveja2-thumbnail.JPG" alt="2012 Medveja" width="240" height="240"></a>
-<figcaption class="gallery-description">2012 Medveja - Nino</figcaption>
-</figure>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sretno Valentinovo</title>
-        <author>
-            <name>Maja Vrancich</name>
-        </author>
-        <link href="https://maja.vrancich.com/sretno-valentinovo.html"/>
-        <id>https://maja.vrancich.com/sretno-valentinovo.html</id>
-            <category term="Aktivizam"/>
-
-        <updated>2019-02-13T14:56:01+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://maja.vrancich.com/media/posts/4/" alt="" />
-                     Sretno Valentinovo svim zaljubljenim parovima :) Nadam se da ćete sutra svojim partnerima priuštiti neki lijepi znak pažnje koji će vas podsjetiti koliko ste sretni da imate onog nekog na koga se možda naljutite sto puta na dan, ali tko je uvijek uz vas kada je zaista&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://maja.vrancich.com/media/posts/4/" alt="" />
-                <p><img class="post__image--left align-left" src="https://maja.vrancich.com/media/posts/4/valentinovo.png" alt="Valentinovo" width="200" height="200"> Sretno Valentinovo svim zaljubljenim parovima :)</p>
-<p>Nadam se da ćete sutra svojim partnerima priuštiti neki lijepi znak pažnje koji će vas podsjetiti koliko ste sretni da imate onog nekog na koga se možda naljutite sto puta na dan, ali tko je uvijek uz vas kada je zaista važno. Ja imam tu sreću u životu :)</p>
-<p><img src="https://maja.vrancich.com/media/posts/4/2.jpg" alt="Maja&amp;Moreno" width="492" height="328"></p>
-<p>Osim što se obilježava dan zaljubljenih, 14.02. se od 2012. godine obilježava i One Billion Rising - međunarodna akcija protiv nasilja na ženama. Šokantne su činjenice o broju zlostavljanih žena u svijetu. Na sreću uvijek mislimo da se to događa negdje drugdje, na nekom tmurnom kraju svijeta, a na žalost stvarnost je prilično drugačija. Informirajte se, pričajte o ovoj temi sa svojim rođacima, prijateljima, poznanicima, budite dio pozitivne promjene!</p>
-<blockquote>
-<div class="row-fluid">
-<h3 class="page-title span23 offset1">What is ONE BILLION RISING?</h3>
-</div>
-<div class="row-fluid">
-<div class="span15 offset1">
-<div class="page">
-<div class="page-content">
-<p><em>1 in 3 women across the planet will be beaten or raped during her lifetime. That’s ONE BILLION WOMEN AND GIRLS. Every February, we rise – in countries across the world – to show our local communities and the world what one billion looks like and shine a light on the rampant impunity and injustice that survivors most often face. We rise through dance to express joy and community and celebrate the fact that we have not been defeated by this violence. We rise to show we are determined to create a new kind of consciousness – one where violence will be resisted until it is unthinkable.</em><em> </em></p>
-</div>
-</div>
-</div>
-</div>
-</blockquote>
-<div class="row-fluid">
-<div class="span15 offset1">
-<div class="page">
-<div class="page-content">
-<p><a href="https://www.onebillionrising.org/" target="_blank" rel="noopener noreferrer" title="One Billion Rising">One Billion Rising</a></p>
-<div class="gallery"   >
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-displacement.jpeg" ><img src="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-displacement-thumbnail.jpeg" alt="Rising to end forced displacement/ immigrant &amp; migrant abuse" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-lgbt.jpeg" ><img src="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-lgbt-thumbnail.jpeg" alt="Rising to end violence towards LGBTQIA+ communities" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-poverty2.jpeg" ><img src="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-poverty2-thumbnail.jpeg" alt="Rising to end poverty" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-racism.jpeg" ><img src="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-racism-thumbnail.jpeg" alt="Rising to endracism, hate &amp; discrimination" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-rape.jpeg" ><img src="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-rape-thumbnail.jpeg" alt="Rising to end rape, battery, incest, sexual harassment" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-sextrafficking.jpeg" ><img src="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-sextrafficking-thumbnail.jpeg" alt="Rising to end sexual slavery and trafficking" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-stateviolence.jpeg" ><img src="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-stateviolence-thumbnail.jpeg" alt="Rising to end wars" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-childmarriage.jpeg" ><img src="https://maja.vrancich.com/media/posts/4/gallery/OBR2019-childmarriage-thumbnail.jpeg" alt="Rising to end child marriage" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/4/gallery/1billion_2019_V3_Black.png" ><img src="https://maja.vrancich.com/media/posts/4/gallery/1billion_2019_V3_Black-thumbnail.png" alt="logo" width="240" height="240"></a></figure>
-</div>
-</div>
-</div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Početni post</title>
-        <author>
-            <name>Maja Vrancich</name>
-        </author>
-        <link href="https://maja.vrancich.com/pocetni-post.html"/>
-        <id>https://maja.vrancich.com/pocetni-post.html</id>
-            <category term="Znanost"/>
-            <category term="Sport"/>
-
-        <updated>2019-02-25T10:06:53+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://maja.vrancich.com/media/posts/1/" alt="" />
-                     Dobrodošli, uživajte u sadržajima koji će po malo izrastati na ovome tlu :) 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://maja.vrancich.com/media/posts/1/" alt="" />
-                <p> </p>
-<p>Dobrodošli, uživajte u sadržajima koji će po malo izrastati na ovome tlu :)</p>
-<p><img src="https://maja.vrancich.com/media/posts/1/IMG_1807.jpg" alt="Vela Draga" width="391" height="587"></p>
+                [{"id":1555941466744,"type":"publii-paragraph","content":"Zovem se Maja Vrancich. Kako bi jedna pjesma rekla \"ja sam sto ljudi na dan\", ono čime se jako ponosim je to što sam učiteljica, majka i rekreativna sportašica. Pokušati ću voditi blog o nekoliko meni zanimljivih tema za koje se nadam da će i drugima biti zanimljive i korisne :)","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
