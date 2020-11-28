@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "maja.vrancich.com",
+    "title": "Maja Vrancich",
     "description": "",
     "home_page_url": "https://maja.vrancich.com",
     "feed_url": "https://maja.vrancich.com/feed.json",
@@ -10,10 +10,24 @@
     },
     "items": [
         {
+            "id": "https://maja.vrancich.com/danas-sam-bila-jaka.html",
+            "url": "https://maja.vrancich.com/danas-sam-bila-jaka.html",
+            "title": "Danas sam bila jaka",
+            "summary": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Popela sam 6b i 6c u Limskom kanalu. Jupiii :) Iako je trening penjanja za mene davna prošlost, funkcionalni trening u Solbris-u se&hellip;",
+            "content_html": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Popela sam 6b i 6c u Limskom kanalu. Jupiii :) Iako je trening penjanja za mene davna prošlost, funkcionalni trening u Solbris-u se očito isplatio. Danas sam doživjela i jednu zaista novu stvar za mene, a to je da sam se borila. Bilo mi je teško i bilo me je strah, ali nisam odustala nego sam dala pokušaj i uspjela! :D\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "author": {
+                "name": "Maja Vrancich"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-28T22:07:13+01:00",
+            "date_modified": "2020-11-28T22:35:18+01:00"
+        },
+        {
             "id": "https://maja.vrancich.com/dobrodosli.html",
             "url": "https://maja.vrancich.com/dobrodosli.html",
             "title": "Dobrodošli",
-            "summary": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Zovem se Maja Vrancich. Kako bi jedna pjesma rekla \\\"ja sam sto ljudi na dan\\\", ono čime se jako ponosim je to što sam&hellip;",
+            "summary": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Zovem se Maja Vrancich. Kako bi jedna pjesma rekla \\\"ja sam sto ljudi na dan\\\", ono čime se jako ponosim je to što&hellip;",
             "content_html": "[{\"id\":1555941466744,\"type\":\"publii-paragraph\",\"content\":\"Zovem se Maja Vrancich. Kako bi jedna pjesma rekla \\\"ja sam sto ljudi na dan\\\", ono čime se jako ponosim je to što sam učiteljica, majka i rekreativna sportašica. Pokušati ću voditi blog o nekoliko meni zanimljivih tema za koje se nadam da će i drugima biti zanimljive i korisne :)\",\"config\":{\"textAlign\":\"left\",\"advanced\":{\"style\":\"\",\"cssClasses\":\"\",\"id\":\"\"}}}]",
             "image": "https://maja.vrancich.com/media/posts/1/IMG_20201122_131057.jpg",
             "author": {
