@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2020-11-28T22:41:35+01:00</updated>
+    <updated>2020-11-28T22:45:19+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://maja.vrancich.com/danas-sam-bila-jaka.html"/>
         <id>https://maja.vrancich.com/danas-sam-bila-jaka.html</id>
+            <category term="penjanje"/>
 
-        <updated>2020-11-28T22:35:18+01:00</updated>
+        <updated>2020-11-28T22:44:49+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://maja.vrancich.com/media/posts/2/limski2.jpg" alt="Limski kanal" />
                     [{"id":1555941466744,"type":"publii-paragraph","content":"Popela sam 6b i 6c u Limskom kanalu. Jupiii :) Iako je trening penjanja za mene davna prošlost, funkcionalni trening u Solbris-u se&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://maja.vrancich.com/media/posts/2/limski2.jpg" alt="Limski kanal" />
                 [{"id":1555941466744,"type":"publii-paragraph","content":"Popela sam 6b i 6c u Limskom kanalu. Jupiii :) Iako je trening penjanja za mene davna prošlost, funkcionalni trening u Solbris-u se očito isplatio. Danas sam doživjela i jednu zaista novu stvar za mene, a to je da sam se borila. Bilo mi je teško i bilo me je strah, ali nisam odustala nego sam dala pokušaj i uspjela! :D","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
             ]]>
         </content>
