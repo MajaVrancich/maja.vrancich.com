@@ -14,14 +14,14 @@
             "url": "https://maja.vrancich.com/kontakt.html",
             "title": "Kontakt",
             "summary": "[{\"id\":1631727835946,\"type\":\"publii-html\",\"content\":\" \\n\",\"config\":{\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
-            "content_html": "[{\"id\":1631727835946,\"type\":\"publii-html\",\"content\":\"<iframe width=\\\"800px\\\" height= \\\"1200px\\\" src= \\\"https://forms.office.com/Pages/ResponsePage.aspx?id=FvJamzTGgEurAgyaPQKQkd-oafOnXFBDhmrAMjBToJJUOFI1RVAwSks2TDJINkMyTU5VNzNVWFBMRy4u&embed=true\\\" frameborder= \\\"0\\\" marginwidth= \\\"0\\\" marginheight= \\\"0\\\" style= \\\"border: none; max-width:100%; max-height:100vh\\\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>\\n\",\"config\":{\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
+            "content_html": "[{\"id\":1631727835946,\"type\":\"publii-html\",\"content\":\"<iframe width=\\\"640px\\\" height= \\\"480px\\\" src= \\\"https://forms.office.com/Pages/ResponsePage.aspx?id=FvJamzTGgEurAgyaPQKQkd-oafOnXFBDhmrAMjBToJJUOFI1RVAwSks2TDJINkMyTU5VNzNVWFBMRy4u&embed=true\\\" frameborder= \\\"0\\\" marginwidth= \\\"0\\\" marginheight= \\\"0\\\" style= \\\"border: none; max-width:100%; max-height:100vh\\\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>\\n\",\"config\":{\"advanced\":{\"cssClasses\":\"\",\"id\":\"\"}}}]",
             "author": {
                 "name": "Maja Vrancich"
             },
             "tags": [
             ],
             "date_published": "2021-09-15T19:44:00+02:00",
-            "date_modified": "2021-09-15T19:51:47+02:00"
+            "date_modified": "2021-09-15T19:53:55+02:00"
         },
         {
             "id": "https://maja.vrancich.com/primjeri-dobre-prakse.html",
