@@ -3,12 +3,32 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2021-09-15T19:32:34+02:00</updated>
+    <updated>2021-09-15T19:48:25+02:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
     <id>https://maja.vrancich.com</id>
 
+    <entry>
+        <title>Kontakt</title>
+        <author>
+            <name>Maja Vrancich</name>
+        </author>
+        <link href="https://maja.vrancich.com/kontakt.html"/>
+        <id>https://maja.vrancich.com/kontakt.html</id>
+
+        <updated>2021-09-15T19:48:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    [{"id":1631727835946,"type":"publii-html","content":" \n","config":{"advanced":{"cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                [{"id":1631727835946,"type":"publii-html","content":"<iframe width=\"800px\" height= \"800px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=FvJamzTGgEurAgyaPQKQkd-oafOnXFBDhmrAMjBToJJUOFI1RVAwSks2TDJINkMyTU5VNzNVWFBMRy4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>\n","config":{"advanced":{"cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Primjeri dobre prakse</title>
         <author>
