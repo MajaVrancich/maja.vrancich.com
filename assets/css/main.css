@@ -1,9 +1,3 @@
-@charset "UTF-8";
-/*
-	Massively by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -100,7 +94,6 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after {
   -webkit-animation: none !important;
   animation: none !important;
   -webkit-transition: none !important;
-  -o-transition: none !important;
   transition: none !important;
 }
 
@@ -110,17 +103,12 @@ html {
 }
 @media screen and (max-width: 1680px) {
   html {
-    font-size: 12pt;
+    font-size: 14pt;
   }
 }
 @media screen and (max-width: 1280px) {
   html {
-    font-size: 11pt;
-  }
-}
-@media screen and (max-width: 360px) {
-  html {
-    font-size: 10pt;
+    font-size: 13pt;
   }
 }
 
@@ -129,7 +117,7 @@ body {
 }
 
 body, input, select, textarea {
-  font-family: var(--primary-font);
+  font-family: var(--body-font);
   font-weight: var(--font-weight-normal);
   font-size: 1rem;
   line-height: 2.375;
@@ -139,7 +127,6 @@ a {
   -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
-  -o-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
   border-bottom: dotted 1px;
@@ -163,7 +150,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--secondary-font);
+  font-family: var(--heading-font);
   font-weight: var(--headings-weight);
   line-height: 1.5;
   letter-spacing: 0.075em;
@@ -1776,14 +1763,13 @@ button,
   -webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
   -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
-  -o-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
   border: 0;
   border-radius: 0;
   cursor: pointer;
   display: inline-block;
-  font-family: var(--secondary-font);
+  font-family: var(--heading-font);
   font-size: 0.8rem;
   font-weight: var(--headings-weight);
   letter-spacing: 0.075em;
@@ -1902,7 +1888,7 @@ button,
   background-color: transparent;
   -webkit-box-shadow: inset 0 0 0 2px #212931;
           box-shadow: inset 0 0 0 2px #212931;
-  color: #212931 !important;
+  color: #212931;
 }
 input[type=submit]:hover,
 input[type=reset]:hover,
@@ -1911,7 +1897,7 @@ button:hover,
 .button:hover {
   -webkit-box-shadow: inset 0 0 0 2px var(--color);
           box-shadow: inset 0 0 0 2px var(--color);
-  color: var(--color) !important;
+  color: var(--color);
 }
 input[type=submit].primary,
 input[type=reset].primary,
@@ -1992,7 +1978,7 @@ form > .fields > .field.quarter {
 
 label {
   display: block;
-  font-family: var(--secondary-font);
+  font-family: var(--heading-font);
   font-weight: var(--headings-weight);
   line-height: 1.5;
   letter-spacing: 0.075em;
@@ -2040,8 +2026,7 @@ select {
   background-position: calc(100% - 1rem) center;
   height: 3rem;
   padding-right: 3rem;
-  -o-text-overflow: ellipsis;
-     text-overflow: ellipsis;
+  text-overflow: ellipsis;
 }
 select:focus::-ms-value {
   background-color: transparent;
@@ -2081,7 +2066,7 @@ input[type=radio] + label {
   display: inline-block;
   font-size: 1rem;
   letter-spacing: 0;
-  font-family: var(--primary-font);
+  font-family: var(--body-font);
   text-transform: none;
   font-weight: var(--font-weight-normal);
   padding-left: 2.8rem;
@@ -2118,7 +2103,7 @@ input[type=radio] + label:before {
 }
 input[type=checkbox]:checked + label:before,
 input[type=radio]:checked + label:before {
-  content: "";
+  content: "\f00c";
 }
 
 input[type=checkbox] + label:before {
@@ -2308,13 +2293,11 @@ a.image {
 a.image img {
   -webkit-transition: -webkit-transform 0.2s ease-out;
   transition: -webkit-transform 0.2s ease-out;
-  -o-transition: transform 0.2s ease-out;
   transition: transform 0.2s ease-out;
   transition: transform 0.2s ease-out, -webkit-transform 0.2s ease-out;
 }
 a.image:hover img {
   -webkit-transform: scale(1.05);
-  -ms-transform: scale(1.05);
   transform: scale(1.05);
 }
 
@@ -2452,7 +2435,6 @@ ul.icons.alt li .icon:before {
   -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
-  -o-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
   font-size: 1rem;
@@ -2614,7 +2596,7 @@ table td {
   padding: 0.75rem 0.75rem;
 }
 table th {
-  font-family: var(--secondary-font);
+  font-family: var(--heading-font);
   font-size: 0.8rem;
   font-weight: var(--headings-weight);
   letter-spacing: 0.075em;
@@ -2696,12 +2678,11 @@ table.alt tbody tr td {
   -webkit-transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
   -webkit-transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
-  -o-transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
   border: solid 2px;
   display: inline-block;
-  font-family: var(--secondary-font);
+  font-family: var(--heading-font);
   font-size: 0.8rem;
   font-weight: var(--headings-weight);
   height: 3rem;
@@ -2736,11 +2717,11 @@ table.alt tbody tr td {
   line-height: inherit;
 }
 .pagination .previous:before {
-  content: "";
+  content: "\f104";
   margin-right: 0.9375em;
 }
 .pagination .next:before {
-  content: "";
+  content: "\f105";
   float: right;
   margin-left: 0.9375em;
 }
@@ -2779,7 +2760,6 @@ table.alt tbody tr td {
 /* Wrapper */
 #wrapper {
   -webkit-transition: opacity 0.5s ease;
-  -o-transition: opacity 0.5s ease;
   transition: opacity 0.5s ease;
   position: relative;
   z-index: 1;
@@ -2793,7 +2773,6 @@ table.alt tbody tr td {
   height: 100%;
   background-color: #212931;
   background-image: url("../../images/overlay.png"), -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.1)), to(rgba(0, 0, 0, 0.1))), url("../../images/bg.jpg");
-  background-image: url("../../images/overlay.png"), -o-linear-gradient(bottom, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
   background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
   background-size: auto, auto, 100% auto;
   background-position: center, center, top center;
@@ -2809,11 +2788,9 @@ table.alt tbody tr td {
 #wrapper.fade-in:before {
   pointer-events: none;
   -webkit-transition: opacity 1s ease-in-out;
-  -o-transition: opacity 1s ease-in-out;
   transition: opacity 1s ease-in-out;
   -webkit-transition-delay: 0.75s;
-  -o-transition-delay: 0.75s;
-     transition-delay: 0.75s;
+  transition-delay: 0.75s;
   background: #1e252d;
   content: "";
   display: block;
@@ -2859,7 +2836,6 @@ body.is-preload #wrapper.fade-in:before {
           justify-content: flex-end;
   -webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
   transition: opacity 1s ease, -webkit-transform 1s ease;
-  -o-transition: opacity 1s ease, transform 1s ease;
   transition: opacity 1s ease, transform 1s ease;
   transition: opacity 1s ease, transform 1s ease, -webkit-transform 1s ease;
   position: relative;
@@ -2903,7 +2879,7 @@ body.is-preload #wrapper.fade-in:before {
   background-color: transparent;
   -webkit-box-shadow: inset 0 0 0 2px #ffffff;
           box-shadow: inset 0 0 0 2px #ffffff;
-  color: #ffffff !important;
+  color: #ffffff;
 }
 #intro input[type=submit]:hover,
 #intro input[type=reset]:hover,
@@ -2912,7 +2888,7 @@ body.is-preload #wrapper.fade-in:before {
 #intro .button:hover {
   -webkit-box-shadow: inset 0 0 0 2px var(--color);
           box-shadow: inset 0 0 0 2px var(--color);
-  color: var(--color) !important;
+  color: var(--color);
 }
 #intro input[type=submit].primary,
 #intro input[type=reset].primary,
@@ -2946,7 +2922,6 @@ body.is-preload #wrapper.fade-in:before {
 }
 #intro + #header .logo {
   -webkit-transform: translateY(2rem);
-  -ms-transform: translateY(2rem);
   transform: translateY(2rem);
   opacity: 0;
   visibility: hidden;
@@ -2954,12 +2929,10 @@ body.is-preload #wrapper.fade-in:before {
 #intro.hidden {
   pointer-events: none;
   -webkit-transform: translateY(2rem);
-  -ms-transform: translateY(2rem);
   transform: translateY(2rem);
   -webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, visibility 0.5s;
   -webkit-transition: opacity 0.5s ease, visibility 0.5s, -webkit-transform 0.5s ease;
   transition: opacity 0.5s ease, visibility 0.5s, -webkit-transform 0.5s ease;
-  -o-transition: opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
   transition: opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
   transition: opacity 0.5s ease, transform 0.5s ease, visibility 0.5s, -webkit-transform 0.5s ease;
   opacity: 0;
@@ -2967,20 +2940,17 @@ body.is-preload #wrapper.fade-in:before {
 }
 #intro.hidden + #header .logo {
   -webkit-transform: translateY(0);
-  -ms-transform: translateY(0);
   transform: translateY(0);
   opacity: 1;
   visibility: visible;
 }
 body.is-preload #intro {
   -webkit-transform: translateY(2rem);
-  -ms-transform: translateY(2rem);
   transform: translateY(2rem);
   opacity: 0;
 }
 body.is-preload #intro:not(.hidden) + #header + #nav {
   -webkit-transform: translateY(4rem);
-  -ms-transform: translateY(4rem);
   transform: translateY(4rem);
   opacity: 0;
 }
@@ -3080,14 +3050,13 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   -webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, -webkit-transform 0.5s ease, visibility 0.5s;
   -webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, visibility 0.5s, -webkit-transform 0.5s ease;
   transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, visibility 0.5s, -webkit-transform 0.5s ease;
-  -o-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
   transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
   transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, transform 0.5s ease, visibility 0.5s, -webkit-transform 0.5s ease;
   pointer-events: auto;
   border-style: solid;
   border-color: #ffffff;
   border-width: 5px !important;
-  font-family: var(--secondary-font);
+  font-family: var(--logo-font);
   font-size: 2.25rem;
   font-weight: var(--headings-weight);
   letter-spacing: 0.075em;
@@ -3127,7 +3096,6 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   -webkit-transition: -webkit-transform 1s ease, opacity 1s ease;
   -webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
   transition: opacity 1s ease, -webkit-transform 1s ease;
-  -o-transition: transform 1s ease, opacity 1s ease;
   transition: transform 1s ease, opacity 1s ease;
   transition: transform 1s ease, opacity 1s ease, -webkit-transform 1s ease;
   background: rgba(255, 255, 255, 0.175);
@@ -3196,7 +3164,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
   -ms-flex-shrink: 1;
   -ms-flex-negative: 1;
       flex-shrink: 1;
-  font-family: var(--secondary-font);
+  font-family: var(--menu-font);
   font-weight: var(--headings-weight);
   letter-spacing: 0.075em;
   list-style: none;
@@ -3210,7 +3178,6 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 }
 #nav ul.links li a {
   -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-  -o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
   display: block;
   font-size: 0.8rem;
@@ -3424,11 +3391,6 @@ img {
   display: inline-block;
   position: relative;
 }
-.post__image > img {
-  display: block;
-  height: auto;
-  width: 100%;
-}
 .post__image > figcaption {
   font-size: 0.8rem;
   margin-top: 0.5rem;
@@ -3451,6 +3413,9 @@ img {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+}
+.post__image--center img {
+  display: inline-block;
 }
 .post__image--wide {
   display: block;
@@ -3544,7 +3509,7 @@ img {
   border: 2px solid #eeeeee;
   border-radius: 3px;
   display: inline-block;
-  font-family: var(--secondary-font);
+  font-family: var(--heading-font);
   font-size: 0.8rem;
   letter-spacing: 0.1em;
   padding: 0.25rem 1rem;
@@ -3659,6 +3624,35 @@ img {
   line-height: 1.6;
   font-size: 0.9rem;
 }
+.post__video, .post__iframe {
+  position: relative;
+  display: block;
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+  overflow: hidden;
+  padding: 0;
+  width: 100%;
+}
+@media screen and (max-width: 736px) {
+  .post__video, .post__iframe {
+    margin-top: 2rem auto;
+    margin-bottom: 2rem auto;
+  }
+}
+.post__video::before, .post__iframe::before {
+  display: block;
+  content: "";
+  padding-top: var(--embed-aspect-ratio);
+}
+.post__video iframe, .post__video video, .post__iframe iframe, .post__iframe video {
+  border: none;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
 
 .image {
   background-color: #f5f5f5;
@@ -3698,7 +3692,7 @@ img {
   }
 }
 .page-header h1 sup {
-  font-family: var(--primary-font);
+  font-family: var(--body-font);
   letter-spacing: normal;
   vertical-align: top;
 }
@@ -3748,7 +3742,7 @@ img {
     margin-right: calc(-50vw + 50%);
   }
   .gallery-wrapper--wide .gallery {
-    max-width: calc(72rem - (8rem * 2) + .5rem);
+    max-width: calc(72rem - (8rem * 2) + 0.5rem);
   }
 }
 .gallery-wrapper {
@@ -3867,8 +3861,7 @@ img {
 }
 .gallery__item a::after {
   background: -webkit-gradient(linear, left bottom, left top, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0)));
-  background: -o-linear-gradient(bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 100%);
-  background: linear-gradient(bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 100%);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 100%);
   bottom: 0.25rem;
   content: "";
   display: block;
@@ -3879,7 +3872,6 @@ img {
   right: 0.25rem;
   top: 0.25rem;
   -webkit-transition: all 0.24s ease-out;
-  -o-transition: all 0.24s ease-out;
   transition: all 0.24s ease-out;
   width: calc(100% - 0.5rem);
 }
@@ -3902,10 +3894,8 @@ img {
   position: absolute;
   text-align: center;
   -webkit-transform: translate(-50%, 1.2rem);
-      -ms-transform: translate(-50%, 1.2rem);
           transform: translate(-50%, 1.2rem);
   -webkit-transition: all 0.24s ease-out;
-  -o-transition: all 0.24s ease-out;
   transition: all 0.24s ease-out;
 }
 @media screen and (min-width: 1681px) {
@@ -3916,7 +3906,6 @@ img {
 .gallery__item:hover figcaption {
   opacity: 1;
   -webkit-transform: translate(-50%, 0);
-      -ms-transform: translate(-50%, 0);
           transform: translate(-50%, 0);
 }
 
@@ -4003,6 +3992,45 @@ hr::before,
   color: #A94442;
 }
 
+.pec-wrapper {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.pec-overlay {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: #f5f5f5;
+  font-size: 14px;
+  display: none;
+  height: inherit;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  line-height: 1.4;
+  padding: 1rem;
+  position: relative;
+  text-align: center;
+}
+@media screen and (min-width: 481px) {
+  .pec-overlay {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 1rem 2rem;
+  }
+}
+.pec-overlay.is-active {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.pec-overlay-inner p {
+  margin: 0 0 1rem;
+}
+
 /* Footer */
 #footer {
   color: #717981;
@@ -4058,7 +4086,7 @@ hr::before,
   background-color: transparent;
   -webkit-box-shadow: inset 0 0 0 2px #717981;
           box-shadow: inset 0 0 0 2px #717981;
-  color: #717981 !important;
+  color: #717981;
 }
 #footer input[type=submit]:hover,
 #footer input[type=reset]:hover,
@@ -4067,7 +4095,7 @@ hr::before,
 #footer .button:hover {
   -webkit-box-shadow: inset 0 0 0 2px var(--color);
           box-shadow: inset 0 0 0 2px var(--color);
-  color: var(--color) !important;
+  color: var(--color);
 }
 #footer input[type=submit].primary,
 #footer input[type=reset].primary,
@@ -4369,7 +4397,7 @@ hr::before,
   position: relative;
   color: rgba(255, 255, 255, 0.25);
   cursor: default;
-  font-family: var(--secondary-font);
+  font-family: var(--heading-font);
   font-size: 0.8rem;
   font-weight: var(--headings-weight);
   letter-spacing: 0.075em;
@@ -4452,7 +4480,6 @@ hr::before,
   -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
-  -o-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
   transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
   display: none;
@@ -4461,7 +4488,7 @@ hr::before,
   right: 0.75rem;
   border: 0;
   color: #ffffff;
-  font-family: var(--secondary-font);
+  font-family: var(--menu-font);
   font-size: 0.9rem;
   font-weight: var(--headings-weight);
   letter-spacing: 0.075em;
@@ -4482,7 +4509,7 @@ hr::before,
   font-weight: 900;
 }
 #navPanelToggle:before {
-  content: "";
+  content: "\f0c9";
   margin-right: 0.5rem;
 }
 #navPanelToggle.alt {
@@ -4508,12 +4535,10 @@ hr::before,
 
 #navPanel {
   -webkit-transform: translateX(20rem);
-  -ms-transform: translateX(20rem);
   transform: translateX(20rem);
   -webkit-transition: -webkit-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
   -webkit-transition: visibility 0.5s, -webkit-transform 0.5s ease, -webkit-box-shadow 0.5s ease;
   transition: visibility 0.5s, -webkit-transform 0.5s ease, -webkit-box-shadow 0.5s ease;
-  -o-transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
   transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
   transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s, -webkit-transform 0.5s ease, -webkit-box-shadow 0.5s ease;
   display: none;
@@ -4543,7 +4568,7 @@ hr::before,
 #navPanel .links li a {
   border-bottom: 0;
   display: block;
-  font-family: var(--secondary-font);
+  font-family: var(--menu-font);
   font-size: 0.9rem;
   font-size: 0.9rem;
   font-weight: var(--headings-weight);
@@ -4557,7 +4582,6 @@ hr::before,
 #navPanel .close {
   text-decoration: none;
   -webkit-transition: color 0.2s ease-in-out;
-  -o-transition: color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   border: 0;
@@ -4587,7 +4611,7 @@ hr::before,
   font-weight: 900;
 }
 #navPanel .close:before {
-  content: "";
+  content: "\f00d";
   font-size: 1.25rem;
 }
 #navPanel .close:hover {
@@ -4616,7 +4640,6 @@ hr::before,
   }
   body.is-navPanel-visible #navPanel {
     -webkit-transform: translateX(0);
-    -ms-transform: translateX(0);
     transform: translateX(0);
     -webkit-box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
             box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);

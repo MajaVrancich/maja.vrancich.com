@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2021-09-18T09:17:01+02:00</updated>
+    <updated>2023-01-29T15:38:04+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -16,19 +16,40 @@
         </author>
         <link href="https://maja.vrancich.com/kako-internet-radi.html"/>
         <id>https://maja.vrancich.com/kako-internet-radi.html</id>
-            <category term="Iz učionice"/>
+        <media:content url="https://maja.vrancich.com/media/posts/3/kako-internet-radi.png" medium="image" />
+            <category term="Primjeri dobre prakse"/>
 
-        <updated>2021-09-16T11:09:55+02:00</updated>
+        <updated>2023-01-29T15:00:25+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://maja.vrancich.com/media/posts/6/kako-internet-radi.png" alt="" />
-                    [{"id":1555941466744,"type":"publii-paragraph","content":"U Medicinskoj školi u Rijeci sam 2017./'18. radila s učenicama III-8 razreda školski projekt.&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631734894139,"type":"publii-paragraph","content":"U nastavku ću opisati:","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631734908535,"type":"publii-list","content":"kako sam došla na tu idejukoji je&hellip;
+                        <img src="https://maja.vrancich.com/media/posts/3/kako-internet-radi.png" alt="" />
+                    U Medicinskoj školi u Rijeci sam 2017./'18. radila s učenicama III-8 razreda školski projekt. U nastavku ću opisati: Gradivo koje sam trebala obraditi s učenicima je bio Internet. Željela sam osuvremeniti nastavu s nekim zanimljivim, recentnim, kratkim i jasnim video prikazom funkcioniranja Interneta. Na moje&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://maja.vrancich.com/media/posts/6/kako-internet-radi.png" alt="" />
-                [{"id":1555941466744,"type":"publii-paragraph","content":"U Medicinskoj školi u Rijeci sam 2017./'18. radila s učenicama III-8 razreda školski projekt.&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631734894139,"type":"publii-paragraph","content":"U nastavku ću opisati:","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631734908535,"type":"publii-list","content":"<li>kako sam došla na tu ideju</li><li>koji je bio proces stvaranja</li><li>dobre</li><li>i loše strane provedenoga projekta</li>","config":{"listType":"ul","advanced":{"cssClasses":"","id":""}}},{"id":1631734892197,"type":"publii-paragraph","content":"Gradivo koje sam trebala obraditi s učenicima je bio Internet. Željela sam osuvremeniti nastavu s nekim zanimljivim, recentnim, kratkim i jasnim video prikazom funkcioniranja Interneta. Na moje veliko iznenađenje, nisam pronašla takav video, barem ne na hrvatskom jeziku. Zanimljiv mi je bio video <a href=\"https://www.youtube.com/watch?v=7_LPdttKXPc\" target=\"_blank\">Aarona Titusa \"How the Internet Works in 5 Minutes\"</a> koji je napravljen na engleskom jeziku. Rodila se ideja da učenici naprave \"prijevod\" tog videa, što je s određenom dozom skepse bilo i prihvaćeno (alternativa im je bila učiti teoriju).","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://www.youtube.com/watch?v=7_LPdttKXPc","noFollow":false,"targetBlank":true,"sponsored":false,"ugc":false,"download":false}}},{"id":1631734759251,"type":"publii-paragraph","content":"<b>Koji nam je bio proces stvaranja?</b>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631735398234,"type":"publii-paragraph","content":"Učenici su ovaj projekt izradili timski, što znači da je svatko dobio svoj zadatak kojeg je morao uspješno odraditi kako bi projekt bio završen. Prvo smo raspravljali o tome na koji je način video nastao te smo zaključili da nam treba tekst, narator, sličice i da sve skupa treba spojiti u jednu cjelinu. Na kraju svega, naravno, treba video i postaviti na Youtube.&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631735878459,"type":"publii-paragraph","content":"Dio učenika je radio na prijevodu (što se pokazalo da im nimalo nije bilo jednostavno), dio je izrađivao i bojao potrebne sličice, neki su sličice pomicali na sceni, neki su bili kamermani, neki su dali glas, a neki spajali video u jednu cjelinu. S obzirom da nismo imali profesionalnu opremu, snimke su rađene pomoću običnog mobilnog telefona. Konačna montaža odrađena je u Windows Movie Maker-u. Za postavljanje videa na Youtube, izrađen je novi Google account putem kojeg je video i postavljen (kako bi se izbjegla situacija u kojoj je video na nečijem privatnom računu).&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631735715951,"type":"publii-paragraph","content":"<b>Dobre&nbsp;strane provedenoga projekta</b>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631735733582,"type":"publii-paragraph","content":"Učenici su se nakon inicijalnog straha i brige da neće moći odraditi tako zahtjevan projekt ipak projekt završili. Od dana kada smo video objavili, 21. studenog 2017. do danas (15. rujna 2021.) video je vidjelo 646 korisnika što zaista možemo smatrati uspjehom. Ja sam jako ponosna na svoje učenike i vjerujem da su puno naučili i o samom procesu realizacije bilo kojeg projekta.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631736069659,"type":"publii-paragraph","content":"Sam video možete pogledati <a href=\"https://www.youtube.com/watch?v=7_LPdttKXPc\">:klikom na link:</a> ili jednostavno stisnuti play na videu malo niže.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://www.youtube.com/watch?v=7_LPdttKXPc","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false,"download":false}}},{"id":1631736114384,"type":"publii-html","content":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MHIAA9kj0zs\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>","config":{"advanced":{"cssClasses":"","id":""}}},{"id":1631736119984,"type":"publii-paragraph","content":"<b>Loše strane provedenoga projekta</b>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631736197824,"type":"publii-paragraph","content":"Projekt je bio vremenski zahtjevan. Inicijalno predviđeno vrijeme sam odmah udvostručila, a kasnije se trebalo još udvostručiti. Tu su se dešavale lagane napetosti, koje smo uspješno riješili i priveli projekt do kraja. Učenici su imali i problema s time tko će preuzeti koju ulogu... Neke su uloge bile jednostavne i odmah su objeručke prihvaćene, a neke su bile kompliciranije pa je trebalo iskoristiti sve trikove uvjeravanja.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631783155524,"type":"publii-paragraph","content":"Video nije savršen, ali audio je izrazito loš. Kasnije smo zaključili da bi video i audio komponente bilo najbolje zasebno snimati i spajati, ali s obzirom da to nismo znali na početku, a da je stvaranje projekta oduzelo puno više vremena od očekivanoga, nismo se upuštali u ponovno snimanje.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631736393490,"type":"publii-paragraph","content":"Osim toga, nisam dodatno ispitivala znanje ovog dijela gradiva već sam ocjene formirala prema stupnju uključenosti u projekt. Sigurna sam da bi frontalna nastava u puno manje vremena rezultirala time da bi puno više učenika znalo gradivo. Pitam se samo, kao i uvijek, koliko dugo bi to znanje trajalo i koliko bi im značilo kasnije u životu.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631736564766,"type":"publii-paragraph","content":"Imate li prijedlog, pohvalu ili komentar, slobodno mi se obratite putem <a href=\"https://maja.vrancich.com/kontakt.html\">kontakt obrasca</a>. Hvala :)","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""},"link":{"url":"https://maja.vrancich.com/kontakt.html","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false,"download":false}}}]
+                    <p><img src="https://maja.vrancich.com/media/posts/3/kako-internet-radi.png" class="type:primaryImage" alt="" /></p>
+                <p>U Medicinskoj školi u Rijeci sam 2017./'18. radila s učenicama III-8 razreda školski projekt. </p>
+<p>U nastavku ću opisati:</p>
+<ul>
+<li>kako sam došla na tu ideju</li>
+<li>koji je bio proces stvaranja</li>
+<li>dobre</li>
+<li>i loše strane provedenoga projekta</li>
+</ul>
+<p>Gradivo koje sam trebala obraditi s učenicima je bio Internet. Željela sam osuvremeniti nastavu s nekim zanimljivim, recentnim, kratkim i jasnim video prikazom funkcioniranja Interneta. Na moje veliko iznenađenje, nisam pronašla takav video, barem ne na hrvatskom jeziku. Zanimljiv mi je bio video <a href="https://www.youtube.com/watch?v=7_LPdttKXPc">Aarona Titusa "How the Internet Works in 5 Minutes"</a> koji je napravljen na engleskom jeziku. Rodila se ideja da učenici naprave "prijevod" tog videa, što je s određenom dozom skepse bilo i prihvaćeno (alternativa im je bila učiti teoriju).</p>
+<p><strong>Koji nam je bio proces stvaranja?</strong></p>
+<p>Učenici su ovaj projekt izradili timski, što znači da je svatko dobio svoj zadatak kojeg je morao uspješno odraditi kako bi projekt bio završen. Prvo smo raspravljali o tome na koji je način video nastao te smo zaključili da nam treba tekst, narator, sličice i da sve skupa treba spojiti u jednu cjelinu. Na kraju svega, naravno, treba video i postaviti na Youtube. </p>
+<p>Dio učenika je radio na prijevodu (što se pokazalo da im nimalo nije bilo jednostavno), dio je izrađivao i bojao potrebne sličice, neki su sličice pomicali na sceni, neki su bili kamermani, neki su dali glas, a neki spajali video u jednu cjelinu. S obzirom da nismo imali profesionalnu opremu, snimke su rađene pomoću običnog mobilnog telefona. Konačna montaža odrađena je u Windows Movie Maker-u. Za postavljanje videa na Youtube, izrađen je novi Google account putem kojeg je video i postavljen (kako bi se izbjegla situacija u kojoj je video na nečijem privatnom računu). </p>
+<p><strong>Dobre strane provedenoga projekta</strong></p>
+<p>Učenici su se nakon inicijalnog straha i brige da neće moći odraditi tako zahtjevan projekt ipak projekt završili. Od dana kada smo video objavili, 21. studenog 2017. do danas (15. rujna 2021.) video je vidjelo 646 korisnika što zaista možemo smatrati uspjehom. Ja sam jako ponosna na svoje učenike i vjerujem da su puno naučili i o samom procesu realizacije bilo kojeg projekta.</p>
+<p>Sam video možete pogledati <a href="https://www.youtube.com/watch?v=MHIAA9kj0zs">:klikom na link:</a> ili jednostavno stisnuti play na videu malo niže.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/MHIAA9kj0zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
+<p><strong>Loše strane provedenoga projekta</strong></p>
+<p>Projekt je bio vremenski zahtjevan. Inicijalno predviđeno vrijeme sam odmah udvostručila, a kasnije se trebalo još udvostručiti. Tu su se dešavale lagane napetosti, koje smo uspješno riješili i priveli projekt do kraja. Učenici su imali i problema s time tko će preuzeti koju ulogu... Neke su uloge bile jednostavne i odmah su objeručke prihvaćene, a neke su bile kompliciranije pa je trebalo iskoristiti sve trikove uvjeravanja.</p>
+<p>Video nije savršen, ali audio je izrazito loš. Kasnije smo zaključili da bi video i audio komponente bilo najbolje zasebno snimati i spajati, ali s obzirom da to nismo znali na početku, a da je stvaranje projekta oduzelo puno više vremena od očekivanoga, nismo se upuštali u ponovno snimanje.</p>
+<p>Osim toga, nisam dodatno ispitivala znanje ovog dijela gradiva već sam ocjene formirala prema stupnju uključenosti u projekt. Sigurna sam da bi frontalna nastava u puno manje vremena rezultirala time da bi puno više učenika znalo gradivo. Pitam se samo, kao i uvijek, koliko dugo bi to znanje trajalo i koliko bi im značilo kasnije u životu.</p>
+<p>Imate li prijedlog, pohvalu ili komentar, slobodno mi se obratite putem <a href="https://maja.vrancich.com/kontakt.html">kontakt obrasca</a>. Hvala :)</p>
             ]]>
         </content>
     </entry>
@@ -40,36 +61,16 @@
         <link href="https://maja.vrancich.com/kontakt.html"/>
         <id>https://maja.vrancich.com/kontakt.html</id>
 
-        <updated>2021-09-15T19:56:53+02:00</updated>
+        <updated>2023-01-29T15:38:04+01:00</updated>
             <summary>
                 <![CDATA[
-                    [{"id":1631727835946,"type":"publii-html","content":" \n","config":{"advanced":{"cssClasses":"","id":""}}}]
+                    Ukoliko mi želite nešto poručiti, molim vas da to učinite putem kontakt obrasca. Hvala.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                [{"id":1631727835946,"type":"publii-html","content":"<iframe width=\"800px\" height= \"1600px\" src= \"https://forms.office.com/Pages/ResponsePage.aspx?id=FvJamzTGgEurAgyaPQKQkd-oafOnXFBDhmrAMjBToJJUOFI1RVAwSks2TDJINkMyTU5VNzNVWFBMRy4u&embed=true\" frameborder= \"0\" marginwidth= \"0\" marginheight= \"0\" style= \"border: none; max-width:100%; max-height:100vh\" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>\n","config":{"advanced":{"cssClasses":"","id":""}}}]
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Primjeri dobre prakse</title>
-        <author>
-            <name>Maja Vrancich</name>
-        </author>
-        <link href="https://maja.vrancich.com/primjeri-dobre-prakse.html"/>
-        <id>https://maja.vrancich.com/primjeri-dobre-prakse.html</id>
-            <category term="Iz učionice"/>
-
-        <updated>2021-09-15T18:42:56+02:00</updated>
-            <summary>
-                <![CDATA[
-                    [{"id":1555941466744,"type":"publii-paragraph","content":"U budućnosti ću s vama podijeliti nekoliko primjera dobre prakse iz učionice. To uključuje programe koje sam isprobala i moje mišljenje o njihovoj&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                [{"id":1555941466744,"type":"publii-paragraph","content":"U budućnosti ću s vama podijeliti nekoliko primjera dobre prakse iz učionice. To uključuje programe koje sam isprobala i moje mišljenje o njihovoj funkcionalnosti; način organizacije nastave; zanimljive učeničke projekte i sl.","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631724007902,"type":"publii-paragraph","content":"","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                <p>Ukoliko mi želite nešto poručiti, molim vas da to učinite putem kontakt obrasca. Hvala.</p>
+<p> <div class="post__iframe"><iframe loading="lazy" width="640px" height="480px" style="border: none; max-width: 100%; max-height: 100vh; width: 753px; height: 543px;" src="https://forms.office.com/Pages/ResponsePage.aspx?id=FvJamzTGgEurAgyaPQKQkd-oafOnXFBDhmrAMjBToJJUOFI1RVAwSks2TDJINkMyTU5VNzNVWFBMRy4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen=""> </iframe></div>
             ]]>
         </content>
     </entry>
@@ -80,61 +81,20 @@
         </author>
         <link href="https://maja.vrancich.com/o-meni.html"/>
         <id>https://maja.vrancich.com/o-meni.html</id>
+            <category term="O meni"/>
 
-        <updated>2021-09-16T11:05:04+02:00</updated>
+        <updated>2023-01-29T15:23:50+01:00</updated>
             <summary>
                 <![CDATA[
-                    [{"id":1631725129416,"type":"publii-paragraph","content":"Diplomirani sam profesor informatike i filozofije. Diplomirala sam 16. prosinca 2010. godine na Filozofskom fakultetu u Rijeci sa prosjekom ocjena 4,4. U&nbsp;travnju 2012.
+                    Diplomirani sam profesor informatike i filozofije. Diplomirala sam 16. prosinca 2010. godine na Filozofskom fakultetu u Rijeci sa prosjekom ocjena 4,4. U travnju 2012. godine polažem stručni ispit za učitelja informatike, a u listopadu 2013. dodatno završavam tečaj za računalnog programera internetskih aplikacija (u Algebri). U&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                [{"id":1631725129416,"type":"publii-paragraph","content":"Diplomirani sam profesor informatike i filozofije. Diplomirala sam 16. prosinca 2010. godine na Filozofskom fakultetu u Rijeci sa prosjekom ocjena 4,4. U&nbsp;travnju 2012. godine polažem stručni ispit za učitelja informatike, a u listopadu 2013. dodatno završavam tečaj za računalnog programera internetskih aplikacija (u Algebri). U srpnju 2021. završavam program osposobljavanja za trenericu sportskog penjanja pri Hrvatskoj olimpijskoj akademiji koji na neki način formalizira moje prethodne edukacije: voditelj ljetne alpinističke škole i instruktor sportskog penjanja.&nbsp;<br><br>U edukaciji radim od 2011. godine. Stažirala sam u osnovnim školama, nakon toga radila u raznim srednjim školama, godinu dana kao asistent na Odjelu za informatiku i od jeseni 2019. radim u OŠ Pećine. Do sada sam obavljala nastavničke poslove, poslove razrednika, administratora imenika i e-matice te koordinatora državne mature. Bavim se i edukacijom u sportu te sam od 2007. (s nekim godinama pauze) trenirala sportsko penjanje djecu uzrasta od pet do osamnaest godina, u Riječkom alpinističkom klubu i Sportsko penjačkom klubu Tuhobić.<br>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631723682701,"type":"publii-paragraph","content":"Konstantno se stručno usavršavam i iza sebe imam veliki broj odslušanih edukacija čije potvrde možete vidjeti ::klikom na link:: (uskoro).","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631723571622,"type":"publii-paragraph","content":"Sudjelovala sam u organizaciji Županijskg natjecanja iz informatike i računalstva INFOKUP 2012., 2015 i 2018. kao članica Prosudbenog povjerenstva.&nbsp;<br>Sudjelovala sam na 22. međunarodnoj multikonferenciji Information Society 2019 (Human-Computer Interaction In Information Society) 9.11.2019. sa radom „Exploratory data analysis of stream data in sports medicine domain“ (Vrancich M., Matetić M.). Ranije sam sudjelovala na 34. Međunarodnom skupu MIPRO 2011. s radom „Izrada testova znanja pomoću računalne tehnologije“ (M. Vukas, N. Hoić-Božić, T. Vukas). Sudjelovala sam na simpoziju „Integrativna bioetika i nova epoha“ (6. Lošinjski dani bioetike), Mali Lošinj, Hrvatska, (2007.) s radom: „Pozitivna fizička aktivnost kao prirodna modifikacija ljudskog tijela“ (I. Eterović, M. Vukas).","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631723642185,"type":"publii-image","content":{"image":"https://maja.vrancich.com/media/posts/3/HCI-IS-foto.jpg","imageHeight":889,"imageWidth":1185,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1631723588990,"type":"publii-paragraph","content":"<br>U slobodno vrijeme se volim baviti sportom i provoditi vrijeme u prirodi pa su tako aktivnosti koje najviše volim: sportsko penjanje, alpinizam, trčanje (trail running), turno skijanje,&nbsp;planinarenje i sl.&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Danas sam bila jaka</title>
-        <author>
-            <name>Maja Vrancich</name>
-        </author>
-        <link href="https://maja.vrancich.com/danas-sam-bila-jaka.html"/>
-        <id>https://maja.vrancich.com/danas-sam-bila-jaka.html</id>
-            <category term="Sport"/>
-
-        <updated>2021-09-16T11:15:23+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://maja.vrancich.com/media/posts/2/limski2.jpg" alt="Limski kanal" />
-                    [{"id":1555941466744,"type":"publii-paragraph","content":"Popela sam 6b i 6c u Limskom kanalu. Jupiii :) Iako je trening penjanja za mene davna prošlost, funkcionalni trening u Solbris-u se&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://maja.vrancich.com/media/posts/2/limski2.jpg" alt="Limski kanal" />
-                [{"id":1555941466744,"type":"publii-paragraph","content":"Popela sam 6b i 6c u Limskom kanalu. Jupiii :) Iako je trening penjanja za mene davna prošlost, funkcionalni trening u Solbris-u se očito isplatio. Danas sam doživjela i jednu zaista novu stvar za mene, a to je da sam se borila. Bilo mi je teško i bilo me je strah, ali nisam odustala nego sam pokušala, dala sve od sebe i (gle čuda) uspjela! :D&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1631783618646,"type":"publii-paragraph","content":"Čini mi se da neki ljudi imaju previsoko mišljenje o sebi samima, svojim sposobnostima i veličini njihovih uspjeha, međutim drugi ljudi su pretjerano samozatajni, premalo vjeruju u sebe i zbog straha od neuspjeha, niti ne pokušavaju. Smatram da je najbolje iskreno analizirati sebe, naći balans između dviju krajnosti i zasjati punim sjajem.&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Dobrodošli</title>
-        <author>
-            <name>Maja Vrancich</name>
-        </author>
-        <link href="https://maja.vrancich.com/dobrodosli.html"/>
-        <id>https://maja.vrancich.com/dobrodosli.html</id>
-
-        <updated>2020-11-25T15:44:35+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://maja.vrancich.com/media/posts/1/IMG_20201122_131057.jpg" alt="" />
-                    [{"id":1555941466744,"type":"publii-paragraph","content":"Zovem se Maja Vrancich. Kako bi jedna pjesma rekla \"ja sam sto ljudi na dan\", ono čime se jako ponosim je to što&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://maja.vrancich.com/media/posts/1/IMG_20201122_131057.jpg" alt="" />
-                [{"id":1555941466744,"type":"publii-paragraph","content":"Zovem se Maja Vrancich. Kako bi jedna pjesma rekla \"ja sam sto ljudi na dan\", ono čime se jako ponosim je to što sam učiteljica, majka i rekreativna sportašica. Pokušati ću voditi blog o nekoliko meni zanimljivih tema za koje se nadam da će i drugima biti zanimljive i korisne :)","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}}]
+                <p>Diplomirani sam profesor informatike i filozofije. Diplomirala sam 16. prosinca 2010. godine na Filozofskom fakultetu u Rijeci sa prosjekom ocjena 4,4. U travnju 2012. godine polažem stručni ispit za učitelja informatike, a u listopadu 2013. dodatno završavam tečaj za računalnog programera internetskih aplikacija (u Algebri). U srpnju 2021. završavam program osposobljavanja za trenericu sportskog penjanja pri Hrvatskoj olimpijskoj akademiji koji na neki način formalizira moje prethodne edukacije: voditelj ljetne alpinističke škole i instruktor sportskog penjanja. <br><br>U edukaciji radim od 2011. godine. Stažirala sam u osnovnim školama, nakon toga radila u raznim srednjim školama, godinu dana kao asistent na Odjelu za informatiku i od jeseni 2019. radim u OŠ Pećine. Do sada sam obavljala nastavničke poslove, poslove razrednika, administratora imenika i e-matice te koordinatora državne mature. Bavim se i edukacijom u sportu te sam od 2007. (s nekim godinama pauze) trenirala sportsko penjanje djecu uzrasta od pet do osamnaest godina, u Riječkom alpinističkom klubu i Sportsko penjačkom klubu Tuhobić.</p>
+<p>Konstantno se stručno usavršavam i iza sebe imam veliki broj odslušanih edukacija čije potvrde možete vidjeti ::klikom na link:: (uskoro).</p>
+<p>Sudjelovala sam u organizaciji Županijskg natjecanja iz informatike i računalstva INFOKUP 2012., 2015 i 2018. kao članica Prosudbenog povjerenstva. <br>Sudjelovala sam na 22. međunarodnoj multikonferenciji Information Society 2019 (Human-Computer Interaction In Information Society) 9.11.2019. sa radom „Exploratory data analysis of stream data in sports medicine domain“ (Vrancich M., Matetić M.). Ranije sam sudjelovala na 34. Međunarodnom skupu MIPRO 2011. s radom „Izrada testova znanja pomoću računalne tehnologije“ (M. Vukas, N. Hoić-Božić, T. Vukas). Sudjelovala sam na simpoziju „Integrativna bioetika i nova epoha“ (6. Lošinjski dani bioetike), Mali Lošinj, Hrvatska, (2007.) s radom: „Pozitivna fizička aktivnost kao prirodna modifikacija ljudskog tijela“ (I. Eterović, M. Vukas).</p>
+<figure class="post__image"><img loading="lazy"  src="https://maja.vrancich.com/media/posts/1/maja-bled-konferencija.jpg" alt="Konferencija, Bled" width="602" height="451" sizes="(max-width: 48em) 100vw, 768px" srcset="https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-xs.jpg 300w ,https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-sm.jpg 480w ,https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-md.jpg 768w ,https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-lg.jpg 1024w ,https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-xl.jpg 1360w ,https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-2xl.jpg 1600w"></figure><br>U slobodno vrijeme se volim baviti sportom i provoditi vrijeme u prirodi pa su tako aktivnosti koje najviše volim: sportsko penjanje, alpinizam, trčanje (trail running), turno skijanje, planinarenje i sl. </p>
             ]]>
         </content>
     </entry>
