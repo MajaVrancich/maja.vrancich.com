@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2023-03-04T12:58:17+01:00</updated>
+    <updated>2023-03-04T13:04:34+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -42,17 +42,20 @@
         </author>
         <link href="https://maja.vrancich.com/online-kompajleri-za-python.html"/>
         <id>https://maja.vrancich.com/online-kompajleri-za-python.html</id>
+        <media:content url="https://maja.vrancich.com/media/posts/6/naslov-kompajleri-2.png" medium="image" />
             <category term="Programiranje"/>
             <category term="Primjeri dobre prakse"/>
 
-        <updated>2023-03-04T12:58:17+01:00</updated>
+        <updated>2023-03-04T13:04:34+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://maja.vrancich.com/media/posts/6/naslov-kompajleri-2.png" alt="" />
                     Općenito sam, kao možda i većina nastavnika, počela aktivno koristiti online kompajlere za vrijeme pandemije kada me situacija prisilila da se ne oslanjam samo na SW koji imam na računalima u školskoj učionici. U ovom osvrtu pričati ću o dva online kompajlera koja sam do&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://maja.vrancich.com/media/posts/6/naslov-kompajleri-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Općenito sam, kao možda i većina nastavnika, počela aktivno koristiti online kompajlere za vrijeme pandemije kada me situacija prisilila da se ne oslanjam samo na SW koji imam na računalima u školskoj učionici. U ovom osvrtu pričati ću o dva online kompajlera koja sam do sada koristila, a to su: <a href="https://maja.vrancich.com" target="_blank" rel="noopener noreferrer">Trinket.io</a> i <a href="https://www.onlinegdb.com/" target="_blank" rel="noopener noreferrer">OnlineGDB.</a></p>
 <h2>Trinket.io</h2>
 <figure class="post__image"><img loading="lazy"  src="https://maja.vrancich.com/media/posts/6/trinket-naslov.png" alt="trinket.io" width="1106" height="342" sizes="(max-width: 48em) 100vw, 768px" srcset="https://maja.vrancich.com/media/posts/6/responsive/trinket-naslov-xs.png 300w ,https://maja.vrancich.com/media/posts/6/responsive/trinket-naslov-sm.png 480w ,https://maja.vrancich.com/media/posts/6/responsive/trinket-naslov-md.png 768w ,https://maja.vrancich.com/media/posts/6/responsive/trinket-naslov-lg.png 1024w ,https://maja.vrancich.com/media/posts/6/responsive/trinket-naslov-xl.png 1360w ,https://maja.vrancich.com/media/posts/6/responsive/trinket-naslov-2xl.png 1600w"></figure>
