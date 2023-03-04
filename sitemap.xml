@@ -42,10 +42,14 @@
 </url>
 <url>
 <loc>https://maja.vrancich.com/online-kompajleri-za-python.html</loc>
-<lastmod>2023-03-04T12:51:45+01:00</lastmod>
+<lastmod>2023-03-04T12:58:17+01:00</lastmod>
 <image:image>
 <image:loc>https://maja.vrancich.com/media\posts\6/trinket-naslov.png</image:loc>
 <image:title><![CDATA[trinket.io]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://maja.vrancich.com/media\posts\6/trinket-primjer.png</image:loc>
+<image:title><![CDATA[Primjer programa, trinket.io]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://maja.vrancich.com/media\posts\6/onlingeGDB.png</image:loc>
