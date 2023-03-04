@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2023-03-04T13:11:29+01:00</updated>
+    <updated>2023-03-04T13:39:01+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -90,29 +90,27 @@
             <category term="Robotika"/>
             <category term="Primjeri dobre prakse"/>
 
-        <updated>2023-03-03T18:25:48+01:00</updated>
+        <updated>2023-03-04T13:39:01+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maja.vrancich.com/media/posts/5/header-2.png" alt="Croatian Makers liga - 3. kolo" />
-                    Ove školske godine (2022./’23.) robotika je jedna od brojnih izvannastavnih aktivnosti koje učenici OŠ Pećine mogu odabrati. Jako sam sretna zbog toga! Uključila sam se u rad s učenicima tek u drugom polugodištu, nakon povratka sa porodiljnog dopusta i odmah tjedan dana nakon povratka sudjelovali&hellip;
+                    Ove školske godine (2022./’23.) učenici OŠ Pećine među izvannastavnim aktivnostima mogu odabrati robotiku te su uključeni učenici 4., 5., 6. i 8. razreda. Jako sam sretna da sam uspjela u svojem dugogodišnjem naumu. Razlog zbog kojeg je trebalo nekoliko godina da se priča pokrene je nabavka&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://maja.vrancich.com/media/posts/5/header-2.png" class="type:primaryImage" alt="Croatian Makers liga - 3. kolo" /></p>
-                <p>Ove školske godine (2022./’23.) <strong>robotika</strong> je jedna od brojnih izvannastavnih aktivnosti koje učenici OŠ Pećine mogu odabrati. Jako sam sretna zbog toga! Uključila sam se u rad s učenicima tek u drugom polugodištu, nakon povratka sa porodiljnog dopusta i odmah tjedan dana nakon povratka sudjelovali smo i u trećem kolu same lige. Bilo mi je izazovno, ali se sve odlično prošlo i veselim se nastavku ovog projekta. U robotiku su nam ove godine uključeni su učenici 4., 5., 6. i 8. razreda, a mentori smo im Ksenija Sobotinčić Štropin i ja. Kolega Bernard Markovinović koji me bio mijenjao dok sam bila na porodiljnom dopustu uveo je djecu u samu priču, zaprimio robote i jako sam mu zahvalna zbog toga.</p>
-<p>U nastavku pročitajte nešto o samoj ligi i o našem iskustvu u natjecanju. </p>
+                <p>Ove školske godine (2022./’23.) učenici OŠ Pećine među izvannastavnim aktivnostima mogu odabrati <strong>robotiku</strong> te su uključeni učenici 4., 5., 6. i 8. razreda. Jako sam sretna da sam uspjela u svojem dugogodišnjem naumu. Razlog zbog kojeg je trebalo nekoliko godina da se priča pokrene je nabavka (ne baš jeftinih) robota. Našoj je školi robote donirala udruga IRIM jer smo se uključili u natjecanje iz robotike, <strong>Croatian Makers ligu</strong>. Puno im hvala na doniranim robotima i na organizaciji samog natjecanja koje nas motivira da iz kola u kolo učimo više i bolje. O samom natjecanju možete pročitati <a href="https://croatianmakers.hr/hr/croatian-makers-liga/" target="_blank" rel="noopener noreferrer">na njihovim stranicama</a>. </p>
 <table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 30.2537%; vertical-align: middle;"><figure class="post__image"><img loading="lazy"  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://maja.vrancich.com/media/posts/5/maqueen-plus-v2.jpg" alt="Maqueen plus V2" width="250" height="175" sizes="(max-width: 48em) 100vw, 768px" srcset="https://maja.vrancich.com/media/posts/5/responsive/maqueen-plus-v2-xs.jpg 300w ,https://maja.vrancich.com/media/posts/5/responsive/maqueen-plus-v2-sm.jpg 480w ,https://maja.vrancich.com/media/posts/5/responsive/maqueen-plus-v2-md.jpg 768w ,https://maja.vrancich.com/media/posts/5/responsive/maqueen-plus-v2-lg.jpg 1024w ,https://maja.vrancich.com/media/posts/5/responsive/maqueen-plus-v2-xl.jpg 1360w ,https://maja.vrancich.com/media/posts/5/responsive/maqueen-plus-v2-2xl.jpg 1600w"></figure></td>
-<td style="width: 69.7463%;">OŠ Pećine je od ove godine uključena u <span style="color: var(--headings-color); font-weight: var(--font-weight-bold);"><a href="https://croatianmakers.hr/hr/croatian-makers-liga/" target="_blank" rel="noopener noreferrer">Croatian Makers ligu</a></span> i programiranje se vrši u programu <a href="https://mindplus.cc/en.html" target="_blank" rel="noopener noreferrer" style="border-bottom: 3px solid rgba(var(--yellow), 1);"><span style="color: var(--headings-color); font-weight: var(--font-weight-bold);">Mind+</span></a>, na Micro:Bit mikrokontrolerima umetnutima u Maqueen plus V2 kućiš<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ta koja su opremljena raznim senzorima. Učenici puno uče o samim</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> komponenatama robota te o tome na koji ih se način može koristiti i njima upravljati kroz programiranje. </span></td>
+<td style="width: 69.7463%;">Programiranje se vrši u programu <a href="https://mindplus.cc/en.html" target="_blank" rel="noopener noreferrer" style="border-bottom: 3px solid rgba(var(--yellow), 1);"><span style="color: var(--headings-color); font-weight: var(--font-weight-bold);">Mind+</span></a>, na Micro:Bit mikrokontrolerima umetnutima u Maqueen plus V2 kućiš<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ta koja su opremljena raznim senzorima. Učenici puno uče o samim</span><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> komponenatama robota te o tome na koji ih se način može koristiti i njima upravljati kroz programiranje. </span></td>
 </tr>
 </tbody>
 </table>
-<p><a href="https://croatianmakers.hr/hr/croatian-makers-liga/">Croatian Makers liga</a> je dio projekta Croatian Makers koji je 2014. godine pokrenuo Institut za razvoj i inovativnost mladih (IRIM). Cilj Lige je omogućiti široko uključivanje robotike, automatike i programiranja u edukaciju u osnovnoškolskom uzrastu. Sudionici se mogu uključiti na nekoliko načina, a svima kojima IRIM omogući opremu za sudjelovanje, oprema ostaje u trajnom vlasništvu nakon godine dana sudjelovanja. U prijevodu, uključivanjem u ovu ligu ne trebate sami nabavljati financije za skupe robote već ih dobijete na korištenje i ukoliko sudjelujete u Ligi, ostaju s vama trajno. Ovo je zaista genijalna inicijativa i za svaku je pohvalu.</p>
 <p>Do sada su se održali pretkolo, te prva tri kola lige. Prvo i drugo kolo bila su online i natjecatelji su se natjecali individualno, dok je treće kolo bilo fizičko i timski. Svaka je škola u trećem kolu mogla sudjelovati sa po jednim timom mlađe dobne skupine i jednim timom starije dobne skupine, sa dva do četiri člana. Treće kolo se za našu grupu („Rijeka 1“) održavalo u OŠ Kostrena.</p>
-<p>Svi su učenici htjeli sudjelovati i teško je bilo odabrati samo neke za članove tima mlađeg uzrasta. Tim mlađeg uzrasta je bio oduševljen s natjecanjem, bili su jako vrijedni, ali su se uz to toliko dobro zabavljali da su izgledali kao publika neke izvrsne komične predstave. Očito je dobra zabava ključ uspjeha dobrih programera jer su osvojili prvo mjesto u svojoj kategoriji sa 1750 bod<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ova. Čestitke svima, pogotovo Aronu koji je najčešće bio aktivni programer.</span></p>
+<p>Svi su učenici htjeli sudjelovati i teško je bilo odabrati samo neke za članove tima mlađeg uzrasta. Odabrani četveročlani tim bio je oduševljen s natjecanjem, bili su jako vrijedni, ali su se uz to toliko dobro zabavljali da su izgledali kao publika neke izvrsne komične predstave. Očito je dobra zabava ključ uspjeha dobrih programera jer su osvojili prvo mjesto u svojoj kategoriji sa 1750 bod<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">ova. Čestitke svima, pogotovo Aronu koji je najčešće bio aktivni programer.</span></p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/5/gallery/mladji2.png" data-size="1500x973"><img loading="lazy" src="https://maja.vrancich.com/media/posts/5/gallery/mladji2-thumbnail.png" alt="Tim mlađe dobne skupine" width="720" height="467"></a>
 <figcaption>Tim mlađe dobne skupine</figcaption>
@@ -121,9 +119,10 @@
 <figcaption>Tim starije dobne skupine</figcaption>
 </figure>
 </div></div>
-<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Tim starije dobne skupine sastojao se od samo dva učenika šestog razreda. Njima je konkurencija bila oštrija i više je utjecala razlika u iskustvu (nama je ovo ipak prva godina sudjelovanja). Osim toga, skoro su se svi ostali timovi sastojali od četvero članova pa je možda ostalim timovima bilo malo lakše podijeliti zadatke u učenju i programiranju. Bez obzira na osvojenih 375 bodova, jako smo ponosni na njihovu hrabrost i upornost.</span></p>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Tim starije dobne skupine sastojao se od samo dva učenika šestog razreda. Njima je konkurencija bila oštrija i više je utjecala razlika u iskustvu (nama je ovo ipak prva godina sudjelovanja). Bez obzira na osvojenih 375 bodova, jako smo ponosni na njihovu hrabrost i upornost.</span></p>
 <p>Svima je ovo bilo divno iskustvo i vjetar u leđa za daljnje učenje i napredovanje. Zahvaljujemo se još jednom OŠ Kostreni koja nam je bila divan domaćin.</p>
 <p>Posljednje kolo održati će se ponovno online, ali će ovoga puta biti timsko, a ne individualno natjecanje. Službeni izvještaj i rezultate možete pročitati <a href="https://croatianmakers.hr/hr/project/rezultati-3-kola-croatian-makers-lige-u-sk-god-2022-23-2/" target="_blank" rel="noopener noreferrer">::ovdje::</a> Jedva čekamo novi izazov s novim zadatkom!</p>
+<p>Na kraju bih se htjela posebno zahvaliti kolegici knjižničarki Kseniji Sobotinčić Štropin i kolegi Bernardu Markovinoviću koji me je bio mijenjao dok sam bila na porodiljnom dopustu. Oni su vodili projekt dok sam bila odsutna, preuzeli su opremu, educirali sebe i djecu i odlično se snašli u svemu.</p>
             ]]>
         </content>
     </entry>
