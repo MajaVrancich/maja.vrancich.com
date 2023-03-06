@@ -3,12 +3,57 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2023-03-04T13:39:01+01:00</updated>
+    <updated>2023-03-06T19:49:32+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
     <id>https://maja.vrancich.com</id>
 
+    <entry>
+        <title>Ozaria, uvod u programiranje</title>
+        <author>
+            <name>Maja Vrancich</name>
+        </author>
+        <link href="https://maja.vrancich.com/ozaria-uvod-u-programiranje.html"/>
+        <id>https://maja.vrancich.com/ozaria-uvod-u-programiranje.html</id>
+        <media:content url="https://maja.vrancich.com/media/posts/8/ozaria-naslov.png" medium="image" />
+            <category term="Programiranje"/>
+            <category term="Primjeri dobre prakse"/>
+
+        <updated>2023-03-06T19:49:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://maja.vrancich.com/media/posts/8/ozaria-naslov.png" alt="" />
+                    Već je generacijama poznat generalni stav djece prema programiranju. Ono im je dosadno, teško i neshvatljivo. Često slušam njurganje tipa "joj, što baš moramo programirati u Pythonu?". Posljednjih nekoliko godina uvod u programiranje petog razreda odradim u Ozarii i čini mi se da učenici puno&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://maja.vrancich.com/media/posts/8/ozaria-naslov.png" class="type:primaryImage" alt="" /></p>
+                <p>Već je generacijama poznat generalni stav djece prema programiranju. Ono im je dosadno, teško i neshvatljivo. Često slušam njurganje tipa "joj, što baš moramo programirati u Pythonu?". Posljednjih nekoliko godina uvod u programiranje petog razreda odradim u Ozarii i čini mi se da učenici puno lakše i bolje shvate koncepte programiranja koje nije blokovsko (Scratch generalno vole, ali o toj temi drugi puta).</p>
+<p><a href="https://www.ozaria.com/" target="_blank" rel="noopener noreferrer">Ozaria </a>je programska avantura za učenje programiranja. Njihov uvodni video lijepo opisuje o čemu se radi i koje su mogućnosti pa ga slobodno pogledajte.</p>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/zdKaVO5uUug" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p>Osobno sam do sada koristila samo besplatni, prvi modul. Ozaria učiteljima nudi mogućnost izrade učionica u koje se učenici prijave. Na taj način je omogućeno praćenje napretka svakog učenika pojedinačno. Učenici se prijave klikom na "Prijava putem Googlea", ali koristeći svoje AAI@eduHr korisničke podatke (postupak aktivacije i korištenja sam opisala <a href="https://maja.vrancich.com/aktivacija-google-usluga-za-skolske-racun.html">u prethodnom članku</a>).</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/8/gallery/ozaria-sucelje.png" data-size="1392x843"><img loading="lazy" src="https://maja.vrancich.com/media/posts/8/gallery/ozaria-sucelje-thumbnail.png" alt="Korisničko sučelje" width="720" height="436"></a>
+<figcaption>Korisničko sučelje</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/8/gallery/ozaria-napredak.png" data-size="637x412"><img loading="lazy" src="https://maja.vrancich.com/media/posts/8/gallery/ozaria-napredak-thumbnail.png" alt="Napredak pojedinih učenika" width="637" height="412"></a>
+<figcaption>Napredak pojedinih učenika</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/8/gallery/ozaria-razredi.png" data-size="1182x392"><img loading="lazy" src="https://maja.vrancich.com/media/posts/8/gallery/ozaria-razredi-thumbnail.png" alt="Razredi" width="720" height="239"></a>
+<figcaption>Razredi</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/8/gallery/ozaria-teacher-kit.png" data-size="1131x527"><img loading="lazy" src="https://maja.vrancich.com/media/posts/8/gallery/ozaria-teacher-kit-thumbnail.png" alt="Materijali za učitelje" width="720" height="335"></a>
+<figcaption>Materijali za učitelje</figcaption>
+</figure>
+</div></div>
+<p>Ozariu radim jedan do dva tjedna, ovisno o brzini i motiviranosti učenika. Korisno je što mi je učionica opremljena slušalicama jer Ozaria ima sadržaje sa zvukom, a svako dijete napreduje svojim tempom. Nekim učenicima predstavlja problem to što je sadržaj na engleskom jeziku pa namjeste Google prevoditelj. Savjetujem im da upute zadatka čitaju na hrvatskom jeziku, ali da programiraju na engleskom jer prilikom programiranja Google pokušava prevoditi i naredbe, ali po meni nije pretjerano uspješan u tome i gubi se smisao funkcija, velikih i malih slova, nepostojanja razmaka unutar jedne naredbe i slično. Čak i učenici koji nisu skloni programiranju niti su elokventni u stranim jezicima, budu oduševljeni. Ono što je još bolje od toga, na narednim satovima primjećujem bolje razumijevanje i lakše stvaranje programa u Pythonu.</p>
+<p>Kao što sam napomenula ranije, nisam do sada koristila slijedeće module tako da ne mogu reći vrijedi li uložiti financijska sredstva u takvu "igricu", ukoliko budem neke godine isprobala, slijedi novi osvrt :)</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Aktivacija Google usluga za školske račune</title>
         <author>
