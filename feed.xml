@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2023-06-06T23:38:41+02:00</updated>
+    <updated>2023-06-06T23:54:29+02:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -65,7 +65,7 @@
         <media:content url="https://maja.vrancich.com/media/posts/10/naslovna-videi.png" medium="image" />
             <category term="Primjeri dobre prakse"/>
 
-        <updated>2023-06-06T23:38:41+02:00</updated>
+        <updated>2023-06-06T23:54:29+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maja.vrancich.com/media/posts/10/naslovna-videi.png" alt="Video upute za Weebly" />
@@ -77,7 +77,7 @@
                     <p><img src="https://maja.vrancich.com/media/posts/10/naslovna-videi.png" class="type:primaryImage" alt="Video upute za Weebly" /></p>
                 <p>U nastavku slijede video upute za korištenje samog alata, a <a href="https://maja.vrancich.com/stvaranje-edukativnih-video-uputa.html">u ovom blog postu</a> možete pročitati više o samom procesu izrade videa. Nadam se da će vam pomoći u vašem radu. Pohvale i komentare slobodno pošaljite putem <a href="https://maja.vrancich.com/kontakt.html">kontakt obrasca</a>.</p>
 <p><a href="https://youtube.com/playlist?list=PLjeEnke-FwWQo1tZXwzANI2s4CWcSlto5" target="_blank" rel="noopener noreferrer">Youtube kanal sa svim videima nalazi se ovdje.</a></p>
-<h2>Stvaranje nove obične stranice</h2>
+<h2>Stvaranje nove standardne stranice</h2>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/mIKezNSPqdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <h2>Stvaranje nove blog stranice</h2>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/VhfiTqBk_5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
