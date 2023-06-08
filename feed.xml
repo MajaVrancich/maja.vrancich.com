@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2023-06-07T00:05:32+02:00</updated>
+    <updated>2023-06-08T14:55:46+02:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -65,7 +65,7 @@
         <media:content url="https://maja.vrancich.com/media/posts/10/naslovna-videi.png" medium="image" />
             <category term="Primjeri dobre prakse"/>
 
-        <updated>2023-06-07T00:05:32+02:00</updated>
+        <updated>2023-06-08T14:55:46+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maja.vrancich.com/media/posts/10/naslovna-videi.png" alt="Video upute za Weebly" />
@@ -93,10 +93,14 @@
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/clTA1lhQueo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <h2>Galerija slika - Slideshow</h2>
 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/AEHF0EjBgc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
-<h2>Youtube video</h2>
+<h2>Dodavanje videa s Youtube-a</h2>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/0Wy3l9miwwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <h2>Ugrađeni kôd (forma za kontakt)</h2>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/EqdKjszTwSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <h2>Promjena slike na vrhu stranice</h2>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/9TC-vN6k2fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <h2>Promjena teme</h2>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/dsIxQ5ihYEE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe></div>
 <p> </p>
 <p>Podsjećam da <a href="https://maja.vrancich.com/stvaranje-edukativnih-video-uputa.html">u ovom blog postu</a> možete pročitati više o samom procesu izrade videa 😁</p>
             ]]>
