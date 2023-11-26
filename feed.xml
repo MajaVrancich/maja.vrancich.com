@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2023-11-26T14:30:43+01:00</updated>
+    <updated>2023-11-26T14:34:20+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -20,17 +20,17 @@
             <category term="Primjeri dobre prakse"/>
             <category term="3D print"/>
 
-        <updated>2023-11-26T14:30:43+01:00</updated>
+        <updated>2023-11-26T14:34:20+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://maja.vrancich.com/media/posts/13/naslovna.jpg" alt="3D Print OŠ Pećine" />
-                    Imate li 3D printer u školi i htjeli bi dizajnirati personaliziranu kuglicu za bor, ali ne znate kako? U nastavku možete pročitati kako na temelju slike (u mojem primjeru logotip škole) možete vrlo jednostavno stvoriti vektorski zapis (.svg) kojeg možete uvesti u program za izradu&hellip;
+                        <img src="https://maja.vrancich.com/media/posts/13/naslovna.jpg" alt="3D printanje u OŠ Pećine, učenici četvrtog razreda" />
+                    Imate li 3D printer u školi i htjeli bi dizajnirati personalizirani objekt, ali ne znate kako već samo koristite godove modele? U nastavku možete pročitati kako na temelju slike (u mojem primjeru logotip škole) možete vrlo jednostavno stvoriti vektorski zapis (.svg) kojeg možete uvesti u&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://maja.vrancich.com/media/posts/13/naslovna.jpg" class="type:primaryImage" alt="3D Print OŠ Pećine" /></p>
-                <p>Imate li 3D printer u školi i htjeli bi dizajnirati personaliziranu kuglicu za bor, ali ne znate kako? U nastavku možete pročitati kako na temelju slike (u mojem primjeru logotip škole) možete vrlo jednostavno stvoriti vektorski zapis (.svg) kojeg možete uvesti u program za izradu 3D modela. Koristila sam GIMP i Thinkercad programe jer su oba nama i učenicima besplatni.</p>
+                    <p><img src="https://maja.vrancich.com/media/posts/13/naslovna.jpg" class="type:primaryImage" alt="3D printanje u OŠ Pećine, učenici četvrtog razreda" /></p>
+                <p>Imate li 3D printer u školi i htjeli bi dizajnirati personalizirani objekt, ali ne znate kako već samo koristite godove modele? U nastavku možete pročitati kako na temelju slike (u mojem primjeru logotip škole) možete vrlo jednostavno stvoriti vektorski zapis (.svg) kojeg možete uvesti u program za izradu 3D modela. Koristila sam GIMP i Thinkercad programe jer su oba nama i učenicima besplatni.</p>
 <p>Najprije trebate imati sliku na temelju koje želite napraviti dizajn. Ja sam koristila jednobojni logo naše škole te sam ga otvorila pomoću <a href="https://www.gimp.org/" target="_blank" rel="noopener noreferrer">programa GIMP</a>. Vjerujem da ste već koristili ovaj program, to je besplatan i open source program za oblikovanje slika, sličan komercijalnom programu Photoshop.<figure class="post__image"><img loading="lazy"  src="https://maja.vrancich.com/media/posts/13/02-fuzzy-select-tool.png" alt="Logo škole u GIMPu" width="907" height="707" sizes="(max-width: 48em) 100vw, 768px" srcset="https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-xs.png 300w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-sm.png 480w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-md.png 768w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-lg.png 1024w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-xl.png 1360w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-2xl.png 1600w"></figure>
 <p>Pomoću alata Fuzzy Select (zaokružen rozom bojom na prethodnoj slici) označila sam sve plave dijelove slike. Nakon označavanja prvog dijela, držanjem tipke Shift mogu se istovremeno označiti dodatni elementi, a držanjem tipke Ctrl oduzimamo krivo označeni dio. Opcijom Treshold možemo namjestiti osjetljivost alata na promjenu boje i time regulirati preciznost samog odabira.</p>
 <p>Nakon što smo označili sve željene dijelove, stvoriti ćemo putanju (path) na temelju odabira te tu putanju izvesti (Export) u obliku vektorske grafike. Pripazite da na kraj naziva željene datoteke dodate ekstenziju .svg jer program ne dodaje samostalno. Ovaj jednostavan i koristan postupak sam naučila <a href="https://thegimptutorials.com/how-to-make-svg-file/" target="_blank" rel="noopener noreferrer">čitajući upute na stranici GIMP tutorials.</a></p>
