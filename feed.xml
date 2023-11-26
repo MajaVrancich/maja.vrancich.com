@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2023-11-26T14:40:00+01:00</updated>
+    <updated>2023-11-26T14:49:13+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -20,17 +20,36 @@
             <category term="Primjeri dobre prakse"/>
             <category term="3D print"/>
 
-        <updated>2023-11-26T14:40:00+01:00</updated>
+        <updated>2023-11-26T14:49:13+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://maja.vrancich.com/media/posts/13/naslovna.jpg" alt="3D printanje u OŠ Pećine, učenici četvrtog razreda" />
-                    Imate li 3D printer u školi i htjeli bi dizajnirati personalizirani objekt, ali ne znate kako već samo koristite godove modele? U nastavku možete pročitati kako na temelju slike (u mojem primjeru logotip škole) možete vrlo jednostavno stvoriti vektorski zapis (.svg) kojeg možete uvesti u&hellip;
+                        <img src="https://maja.vrancich.com/media/posts/13/naslovna.jpg" alt="3D print u OŠ Pećine" />
+                    Imate li 3D printer u školi i htjeli bi dizajnirati personalizirani objekt, ali ne znate kako već samo koristite godove modele? U nastavku možete pročitati kako na temelju slike (u mojem primjeru logotipa škole) možete vrlo jednostavno stvoriti vektorski zapis (.svg) kojeg možete uvesti u&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://maja.vrancich.com/media/posts/13/naslovna.jpg" class="type:primaryImage" alt="3D printanje u OŠ Pećine, učenici četvrtog razreda" /></p>
-                <p>Imate li 3D printer u školi i htjeli bi dizajnirati personalizirani objekt, ali ne znate kako već samo koristite godove modele? U nastavku možete pročitati kako na temelju slike (u mojem primjeru logotip škole) možete vrlo jednostavno stvoriti vektorski zapis (.svg) kojeg možete uvesti u program za izradu 3D modela. Koristila sam GIMP i Thinkercad programe jer su oba nama i učenicima besplatni.</p>
+                    <p><img src="https://maja.vrancich.com/media/posts/13/naslovna.jpg" class="type:primaryImage" alt="3D print u OŠ Pećine" /></p>
+                <p>Imate li 3D printer u školi i htjeli bi dizajnirati personalizirani objekt, ali ne znate kako već samo koristite godove modele? U nastavku možete pročitati kako na temelju slike (u mojem primjeru logotipa škole) možete vrlo jednostavno stvoriti vektorski zapis (.svg) kojeg možete uvesti u program za izradu 3D modela. Koristila sam GIMP i Thinkercad programe jer su oba nama i učenicima besplatni. </p>
+<p>Koristeći postupke navedene u nastavku članka nedavno smo u školi proveli zanimljiv projekt: napravili smo <strong>taktilnu memori igru "Dotakni more" za slijepe i slabovidne učenike</strong>. Uživali smo u procesu stvaranja i ponosni smo na rezultate. <a href="https://www.tinkercad.com/users/jbbXKjOnQ0O" target="_blank" rel="noopener noreferrer">Model memori igre</a> možete preuzeti i samostalno printati.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/memori1.jpg" data-size="768x1027"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/memori1-thumbnail.jpg" alt="Memori Dotakni more" width="720" height="963"></a>
+<figcaption>Memori "Dotaki more" za slijepe i slabovidne</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/memori2.jpg" data-size="1027x768"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/memori2-thumbnail.jpg" alt="Memori Dotakni more" width="720" height="538"></a>
+<figcaption>Memori "Dotaki more" za slijepe i slabovidne</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/adventurer-3.jpg" data-size="1027x768"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/adventurer-3-thumbnail.jpg" alt="Početak 3D printanja" width="720" height="538"></a>
+<figcaption>Početak 3D printanja</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/osmasi.jpg" data-size="1027x768"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/osmasi-thumbnail.jpg" alt="Osmaši proučavaju kako printer radi" width="720" height="538"></a>
+<figcaption>Osmaši proučavaju kako printer radi</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/cetvrtasi.jpg" data-size="1027x768"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/cetvrtasi-thumbnail.jpg" alt="Četvrtaši su jako sretni s 3D printanjem" width="720" height="538"></a>
+<figcaption>Četvrtaši su jako sretni s 3D printanjem</figcaption>
+</figure>
+</div></div>
+<p>Slijede upute za stvaranje sličnog projekta, plosnate kuglice za bor s logotipom škole.</p>
 <p>Najprije trebate imati sliku na temelju koje želite napraviti dizajn. Ja sam koristila jednobojni logo naše škole te sam ga otvorila pomoću <a href="https://www.gimp.org/" target="_blank" rel="noopener noreferrer">programa GIMP</a>. Vjerujem da ste već koristili ovaj program, to je besplatan i open source program za oblikovanje slika, sličan komercijalnom programu Photoshop.<figure class="post__image"><img loading="lazy"  src="https://maja.vrancich.com/media/posts/13/02-fuzzy-select-tool.png" alt="Logo škole u GIMPu" width="907" height="707" sizes="(max-width: 48em) 100vw, 768px" srcset="https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-xs.png 300w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-sm.png 480w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-md.png 768w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-lg.png 1024w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-xl.png 1360w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-2xl.png 1600w"></figure>
 <p>Pomoću alata Fuzzy Select (zaokružen rozom bojom na prethodnoj slici) označila sam sve plave dijelove slike. Nakon označavanja prvog dijela, držanjem tipke Shift mogu se istovremeno označiti dodatni elementi, a držanjem tipke Ctrl oduzimamo krivo označeni dio. Opcijom Treshold možemo namjestiti osjetljivost alata na promjenu boje i time regulirati preciznost samog odabira.</p>
 <p>Nakon što smo označili sve željene dijelove, stvoriti ćemo putanju (path) na temelju odabira te tu putanju izvesti (Export) u obliku vektorske grafike. Pripazite da na kraj naziva željene datoteke dodate ekstenziju .svg jer program ne dodaje samostalno. Ovaj jednostavan i koristan postupak sam naučila <a href="https://thegimptutorials.com/how-to-make-svg-file/" target="_blank" rel="noopener noreferrer">čitajući upute na stranici GIMP tutorials.</a></p>
@@ -73,24 +92,6 @@
 </figure>
 </div></div>
 <p>Da bi model isprintali, potrebno ga je ubaciti u drugi program koji će pripremiti model za 3D printer koji koristite. Naša škola posjeduje Adventurer 3 od FlashForge marke s kojim sam jako zadovoljna te se program za pripremu za print modela zove FlashPrint. Kod ovakvog modela savjetujem printanje bez dodatne podloge tzv. Raft jer se dosta teško skida i nepotrebno troši filament.</p>
-<p>Na ovakav smo način nedavno napravili <strong>taktilnu memori igru "Dotakni more" za slijepe i slabovidne učenike</strong>. Uživali smo u procesu stvaranja i ponosni smo na rezultate. <a href="https://www.tinkercad.com/users/jbbXKjOnQ0O" target="_blank" rel="noopener noreferrer">Model memori igre</a> možete preuzeti i samostalno printati.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/memori1.jpg" data-size="768x1027"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/memori1-thumbnail.jpg" alt="Memori Dotakni more" width="720" height="963"></a>
-<figcaption>Memori "Dotaki more" za slijepe i slabovidne</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/memori2.jpg" data-size="1027x768"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/memori2-thumbnail.jpg" alt="Memori Dotakni more" width="720" height="538"></a>
-<figcaption>Memori "Dotaki more" za slijepe i slabovidne</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/adventurer-3.jpg" data-size="1027x768"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/adventurer-3-thumbnail.jpg" alt="Početak 3D printanja" width="720" height="538"></a>
-<figcaption>Početak 3D printanja</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/osmasi.jpg" data-size="1027x768"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/osmasi-thumbnail.jpg" alt="Osmaši proučavaju kako printer radi" width="720" height="538"></a>
-<figcaption>Osmaši proučavaju kako printer radi</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/cetvrtasi.jpg" data-size="1027x768"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/cetvrtasi-thumbnail.jpg" alt="Četvrtaši su jako sretni s 3D printanjem" width="720" height="538"></a>
-<figcaption>Četvrtaši su jako sretni s 3D printanjem</figcaption>
-</figure>
-</div></div>
 <p>Sretno u stvaranju, <a href="https://maja.vrancich.com/kontakt.html">šaljite mi komentare i svoja iskustva</a> :)</p>
             ]]>
         </content>
