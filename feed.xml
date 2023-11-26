@@ -3,12 +3,98 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2023-06-16T15:03:05+02:00</updated>
+    <updated>2023-11-26T14:30:43+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
     <id>https://maja.vrancich.com</id>
 
+    <entry>
+        <title>3D print na temelju slike</title>
+        <author>
+            <name>Maja Vrancich</name>
+        </author>
+        <link href="https://maja.vrancich.com/3d-print-na-temelju-slike.html"/>
+        <id>https://maja.vrancich.com/3d-print-na-temelju-slike.html</id>
+        <media:content url="https://maja.vrancich.com/media/posts/13/naslovna.jpg" medium="image" />
+            <category term="Primjeri dobre prakse"/>
+            <category term="3D print"/>
+
+        <updated>2023-11-26T14:30:43+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://maja.vrancich.com/media/posts/13/naslovna.jpg" alt="3D Print OŠ Pećine" />
+                    Imate li 3D printer u školi i htjeli bi dizajnirati personaliziranu kuglicu za bor, ali ne znate kako? U nastavku možete pročitati kako na temelju slike (u mojem primjeru logotip škole) možete vrlo jednostavno stvoriti vektorski zapis (.svg) kojeg možete uvesti u program za izradu&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://maja.vrancich.com/media/posts/13/naslovna.jpg" class="type:primaryImage" alt="3D Print OŠ Pećine" /></p>
+                <p>Imate li 3D printer u školi i htjeli bi dizajnirati personaliziranu kuglicu za bor, ali ne znate kako? U nastavku možete pročitati kako na temelju slike (u mojem primjeru logotip škole) možete vrlo jednostavno stvoriti vektorski zapis (.svg) kojeg možete uvesti u program za izradu 3D modela. Koristila sam GIMP i Thinkercad programe jer su oba nama i učenicima besplatni.</p>
+<p>Najprije trebate imati sliku na temelju koje želite napraviti dizajn. Ja sam koristila jednobojni logo naše škole te sam ga otvorila pomoću <a href="https://www.gimp.org/" target="_blank" rel="noopener noreferrer">programa GIMP</a>. Vjerujem da ste već koristili ovaj program, to je besplatan i open source program za oblikovanje slika, sličan komercijalnom programu Photoshop.<figure class="post__image"><img loading="lazy"  src="https://maja.vrancich.com/media/posts/13/02-fuzzy-select-tool.png" alt="Logo škole u GIMPu" width="907" height="707" sizes="(max-width: 48em) 100vw, 768px" srcset="https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-xs.png 300w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-sm.png 480w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-md.png 768w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-lg.png 1024w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-xl.png 1360w ,https://maja.vrancich.com/media/posts/13/responsive/02-fuzzy-select-tool-2xl.png 1600w"></figure>
+<p>Pomoću alata Fuzzy Select (zaokružen rozom bojom na prethodnoj slici) označila sam sve plave dijelove slike. Nakon označavanja prvog dijela, držanjem tipke Shift mogu se istovremeno označiti dodatni elementi, a držanjem tipke Ctrl oduzimamo krivo označeni dio. Opcijom Treshold možemo namjestiti osjetljivost alata na promjenu boje i time regulirati preciznost samog odabira.</p>
+<p>Nakon što smo označili sve željene dijelove, stvoriti ćemo putanju (path) na temelju odabira te tu putanju izvesti (Export) u obliku vektorske grafike. Pripazite da na kraj naziva željene datoteke dodate ekstenziju .svg jer program ne dodaje samostalno. Ovaj jednostavan i koristan postupak sam naučila <a href="https://thegimptutorials.com/how-to-make-svg-file/" target="_blank" rel="noopener noreferrer">čitajući upute na stranici GIMP tutorials.</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/04-selection-to-path.png" data-size="616x493"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/04-selection-to-path-thumbnail.png" alt="Stvaranje putanje na temelju odabranog dijela slike" width="616" height="493"></a>
+<figcaption>Stvaranje putanje na temelju odabranog dijela slike</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/05-export-path.png" data-size="467x221"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/05-export-path-thumbnail.png" alt="Izvoz putanje u obliku vektorske grafike" width="467" height="221"></a>
+<figcaption>Izvoz putanje u obliku vektorske grafike</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/06-spremi-SVG.png" data-size="706x551"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/06-spremi-SVG-thumbnail.png" alt="Dodavanje .svg ekstenzije na kraj naziva datoteke" width="706" height="551"></a>
+<figcaption>Dodavanje .svg ekstenzije na kraj naziva datoteke</figcaption>
+</figure>
+</div></div>
+<p>Nakon stvaranja vektorske grafike, spremni smo za ulazak u program za stvaranje 3D modela. Na nastavi koristim <a href="https://www.tinkercad.com/" target="_blank" rel="noopener noreferrer">Thinkercad</a>, online alat za izradu 3D modela, elektroničkih sklopova ili blokovskih programa. Zgodan je učiteljima jer omogućuje stvaranje virtualnog razreda za praćenje što nam učenici rade. Osim ove mogućnosti, meni se sviđa i zbog toga što ima ugrađene vizualne upute za korištenje programa za stvaranje 3D modela te koristeći te upute učenici vrlo uspješno savladaju stvaranje objekata, njihovo pomicanje, mijenjanje veličine, centriranje, grupiranje i ostale ponuđene funkcije. Učenici i učitelji se mogu prijaviti klikom na Sign in with Google i nakon toga korištenjem AAI@EduHr korisničkih računa (postupak sam već objašnjavala <a href="https://maja.vrancich.com/aktivacija-google-usluga-za-skolske-racun.html">u ovom članku</a>).</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/07-tinkercad.png" data-size="1263x682"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/07-tinkercad-thumbnail.png" alt="Thinkercad" width="720" height="389"></a>
+<figcaption>Thinkercad</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/08-novi-3D-dizajn.png" data-size="593x573"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/08-novi-3D-dizajn-thumbnail.png" alt="Stvaranje novog 3D dizajna" width="593" height="573"></a>
+<figcaption>Stvaranje novog 3D dizajna</figcaption>
+</figure>
+</div></div>
+<p>U novom 3D projektu ću stvoriti plosnatu kuglicu za bor s logotipom škole. Uvozim (Import) vektorsku grafiku logotipa kojeg sam stvorila u prethodnim koracima i ako je potrebno skaliram objekt (prilagodim veličinu). Dodajem okruglu pločicu za podlogu, prazni valjak za rupicu i grupiram sve elemente. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/09-import-svg.png" data-size="527x353"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/09-import-svg-thumbnail.png" alt="Uvoz vektorske grafike" width="527" height="353"></a>
+<figcaption>Uvoz vektorske grafike</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/09-import-svg2.png" data-size="586x585"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/09-import-svg2-thumbnail.png" alt="Skaliranje objekta" width="586" height="585"></a>
+<figcaption>Skaliranje objekta</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/10-model-iz-linije.png" data-size="742x402"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/10-model-iz-linije-thumbnail.png" alt="Uvezena vektorska grafika" width="720" height="390"></a>
+<figcaption>Uvezena vektorska grafika</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/10-model-na-plocici.png" data-size="653x478"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/10-model-na-plocici-thumbnail.png" alt="Svi potrebni elementi" width="653" height="478"></a>
+<figcaption>Svi potrebni elementi</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/11-grupirano.png" data-size="635x466"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/11-grupirano-thumbnail.png" alt="Gotov model nakon grupiranja elemenata" width="635" height="466"></a>
+<figcaption>Gotov model nakon grupiranja elemenata</figcaption>
+</figure>
+</div></div>
+<p>Da bi model isprintali, potrebno ga je ubaciti u drugi program koji će pripremiti model za 3D printer koji koristite. Naša škola posjeduje Adventurer 3 od FlashForge marke s kojim sam jako zadovoljna te se program za pripremu za print modela zove FlashPrint. Kod ovakvog modela savjetujem printanje bez dodatne podloge tzv. Raft jer se dosta teško skida i nepotrebno troši filament.</p>
+<p>Na ovakav smo način nedavno napravili <strong>taktilnu memori igru "Dotakni more" za slijepe i slabovidne učenike</strong>. Uživali smo u procesu stvaranja i ponosni smo na rezultate. <a href="https://www.tinkercad.com/users/jbbXKjOnQ0O" target="_blank" rel="noopener noreferrer">Model memori igre</a> možete preuzeti i samostalno printati.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/memori1.jpg" data-size="768x1027">&lt;img src="https://maja.vrancich.com/media/posts/13/gallery/memori1-thumbnail.jpg" alt="Memori " dotaki="" more"="" za="" slijepe="" i="" slabovidne"="" height="963" width="720"&gt;</a>
+<figcaption>Memori "Dotaki more" za slijepe i slabovidne</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/memori2.jpg" data-size="1027x768">&lt;img src="https://maja.vrancich.com/media/posts/13/gallery/memori2-thumbnail.jpg" alt="Memori " dotaki="" more"="" za="" slijepe="" i="" slabovidne"="" height="538" width="720"&gt;</a>
+<figcaption>Memori "Dotaki more" za slijepe i slabovidne</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/adventurer-3.jpg" data-size="1027x768"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/adventurer-3-thumbnail.jpg" alt="Početak 3D printanja" width="720" height="538"></a>
+<figcaption>Početak 3D printanja</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/osmasi.jpg" data-size="1027x768"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/osmasi-thumbnail.jpg" alt="Osmaši proučavaju kako printer radi" width="720" height="538"></a>
+<figcaption>Osmaši proučavaju kako printer radi</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/13/gallery/cetvrtasi.jpg" data-size="1027x768"><img loading="lazy" src="https://maja.vrancich.com/media/posts/13/gallery/cetvrtasi-thumbnail.jpg" alt="Četvrtaši su jako sretni s 3D printanjem" width="720" height="538"></a>
+<figcaption>Četvrtaši su jako sretni s 3D printanjem</figcaption>
+</figure>
+</div></div>
+<p>Sretno u stvaranju, <a href="https://maja.vrancich.com/kontakt.html">šaljite mi komentare i svoja iskustva</a> :)</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Stvaranje edukativnih video uputa</title>
         <author>
@@ -443,30 +529,6 @@
                 <div class="post__iframe"><iframe loading="lazy" width="100%" height="100%" style="border: none; overflow: hidden; height: 100%; width: 100%;" src="https://forms.office.com/Pages/ResponsePage.aspx?id=FvJamzTGgEurAgyaPQKQkd-oafOnXFBDhmrAMjBToJJUOFI1RVAwSks2TDJINkMyTU5VNzNVWFBMRy4u&amp;embed=true" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen=""> </iframe></div>
 <p>Ukoliko kontakt obrazac ne radi, slobodno mi pišite putem e-pošte na:<br>maja.vrancich@skole.hr</p>
 <p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>O meni</title>
-        <author>
-            <name>Maja Vrancich</name>
-        </author>
-        <link href="https://maja.vrancich.com/o-meni.html"/>
-        <id>https://maja.vrancich.com/o-meni.html</id>
-
-        <updated>2023-03-21T20:58:11+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Diplomirani sam profesor informatike i filozofije i radim kao učiteljica informatike u Osnovnoj školi Pećine u Rijeci. U edukaciji radim od 2011. godine. Stažirala sam u osnovnim školama, nakon toga radila u nekoliko srednjih škola, godinu dana kao asistent na Odjelu za informatiku pri Sveučilištu&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Diplomirani sam profesor informatike i filozofije i radim kao učiteljica informatike u <a href="http://os-pecine-ri.skole.hr/" target="_blank" rel="noopener noreferrer">Osnovnoj školi Pećine u Rijeci</a>. U edukaciji radim od 2011. godine. Stažirala sam u osnovnim školama, nakon toga radila u nekoliko srednjih škola, godinu dana kao asistent na Odjelu za informatiku pri Sveučilištu u Rijeci te sam se od jeseni 2019. skrasila u svojoj lijepoj školi. Do sada sam obavljala nastavničke poslove, poslove razrednika, administratora imenika i e-matice te koordinatora državne mature. Bavim se i edukacijom u sportu te sam od 2007. (s nekim godinama pauze) trenirala sportsko penjanje djecu uzrasta od pet do osamnaest godina, u Riječkom alpinističkom klubu i Sportsko penjačkom klubu Tuhobić.</p>
-<p>Slijedi nekoliko crtica o mojoj edukaciji. Diplomirala sam 16. prosinca 2010. godine na Filozofskom fakultetu u Rijeci sa prosjekom ocjena 4,4. U travnju 2012. godine polažem stručni ispit za učitelja informatike, a u listopadu 2013. dodatno završavam tečaj za računalnog programera internetskih aplikacija (u Algebri). U srpnju 2021. završavam program osposobljavanja za Trenera sportskog penjanja pri Hrvatskoj olimpijskoj akademiji koji na neki način formalizira moje prethodne edukacije: voditelj ljetne alpinističke škole i instruktor sportskog penjanja. U školi se konstantno stručno usavršavam i iza sebe imam veliki broj odslušanih edukacija čije potvrde možete vidjeti <a href="https://maja.vrancich.com/potvrde-o-edukacijama.html">::klikom na link::</a></p>
-<p>Sudjelovala sam u organizaciji Županijskg natjecanja iz informatike i računalstva INFOKUP 2012., 2015. i 2018. kao članica Prosudbenog povjerenstva. <br>Sudjelovala sam na 22. međunarodnoj multikonferenciji Information Society 2019 (Human-Computer Interaction In Information Society) sa radom „Exploratory data analysis of stream data in sports medicine domain“ (Vrancich M., Matetić M.). Ranije sam sudjelovala na 34. Međunarodnom skupu MIPRO 2011. s radom „Izrada testova znanja pomoću računalne tehnologije“ (M. Vukas, N. Hoić-Božić, T. Vukas). Sudjelovala sam na simpoziju „Integrativna bioetika i nova epoha“ (6. Lošinjski dani bioetike), Mali Lošinj, Hrvatska, (2007.) s radom: „Pozitivna fizička aktivnost kao prirodna modifikacija ljudskog tijela“ (I. Eterović, M. Vukas).</p>
-<figure class="post__image"><img loading="lazy"  src="https://maja.vrancich.com/media/posts/1/maja-bled-konferencija.jpg" alt="Konferencija, Bled" width="602" height="451" sizes="(max-width: 48em) 100vw, 768px" srcset="https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-xs.jpg 300w ,https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-sm.jpg 480w ,https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-md.jpg 768w ,https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-lg.jpg 1024w ,https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-xl.jpg 1360w ,https://maja.vrancich.com/media/posts/1/responsive/maja-bled-konferencija-2xl.jpg 1600w"></figure>
-<p>U slobodno vrijeme se volim baviti sportom i provoditi vrijeme u prirodi pa su tako aktivnosti koje najviše volim: sportsko penjanje, alpinizam, trčanje (trail running), turno skijanje, planinarenje i sl. </p>
             ]]>
         </content>
     </entry>
