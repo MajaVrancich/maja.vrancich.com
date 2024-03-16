@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2024-03-16T14:56:37+01:00</updated>
+    <updated>2024-03-16T15:43:30+01:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="Erasmus+"/>
             <category term="3D print"/>
 
-        <updated>2024-03-16T14:56:37+01:00</updated>
+        <updated>2024-03-16T15:43:30+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maja.vrancich.com/media/posts/14/naslovna.png" alt="" />
@@ -77,7 +77,7 @@
 <figcaption>3D printer</figcaption>
 </figure>
 </div></div>
-<p>Nakon 3D printa, više smo se posvetili samoj robotici i to izradi vlastitog robota. Naučili smo koncepte koji su nam potrebni kako bi mogli realizirati zamišljeni projekt: šasija robota, servo motori, mjenjač brzine pomoću zupčanika, enkoderi koji mjere samu brzinu okretanja, žiroskop, senzori, mikrokontroler te način na koji se sve skupa međusobno spaja u stujni krug bez da prouzročimo kratki spoj ili pregaranje lemenata zbog prevelike struje. U programu Thinkercad smo izrađivali vlastite modele koje smo u programu simulirali i testirali prije konkretnog spajanja (kako ne bi uništili komponente u slučaju da smo nešto krivo zamislili). Izradili smo nekoliko projekata, a najzanimljiviji mi je bio <a href="https://www.tinkercad.com/things/8AKcWvl2NMV-copy-of-parking-sensor/editel?tenant=circuits" target="_blank" rel="noopener noreferrer">senzor za parkiranje</a> koji je svijetlio različitim bojama žaruljica ovisno o udaljenosti prepreke od senzora. Obradili smo i osnove rada umjetne inteligencije koja se danas sve više koristi u svim poljima ljudskog djelovanja pa tako i u robotici.</p>
+<p>Nakon 3D printa, više smo se posvetili samoj robotici i to izradi vlastitog robota. Naučili smo koncepte koji su nam potrebni kako bi mogli realizirati zamišljeni projekt: šasija robota, servo motori, mjenjač brzine pomoću zupčanika, enkoderi koji mjere samu brzinu okretanja, žiroskop, senzori, mikrokontroler te način na koji se sve skupa međusobno spaja u strujni krug bez da prouzročimo kratki spoj ili pregaranje elemenata zbog prevelike struje. U programu Thinkercad smo izrađivali vlastite modele koje smo u programu simulirali i testirali prije konkretnog spajanja (kako ne bi uništili komponente u slučaju da smo nešto krivo zamislili). Izradili smo nekoliko projekata, a najzanimljiviji mi je bio <a href="https://www.tinkercad.com/things/8AKcWvl2NMV-copy-of-parking-sensor/editel?tenant=circuits" target="_blank" rel="noopener noreferrer">senzor za parkiranje</a> koji je svijetlio različitim bojama žaruljica ovisno o udaljenosti prepreke od senzora. Obradili smo i osnove rada umjetne inteligencije koja se danas sve više koristi u svim poljima ljudskog djelovanja pa tako i u robotici.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/14/gallery/senzor-za-parking.png" data-size="733x507"><img loading="lazy" src="https://maja.vrancich.com/media/posts/14/gallery/senzor-za-parking-thumbnail.png" alt="Thinkercad senzor za parkiranje" width="720" height="498"></a>
 <figcaption>Thinkercad senzor za parkiranje</figcaption>
