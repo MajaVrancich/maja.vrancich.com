@@ -3,7 +3,7 @@
     <title>Maja Vrancich</title>
     <link href="https://maja.vrancich.com/feed.xml" rel="self" />
     <link href="https://maja.vrancich.com" />
-    <updated>2024-06-12T15:33:12+02:00</updated>
+    <updated>2024-06-19T10:35:48+02:00</updated>
     <author>
         <name>Maja Vrancich</name>
     </author>
@@ -427,7 +427,7 @@
         <media:content url="https://maja.vrancich.com/media/posts/7/aktivacija.skole.hr.png" medium="image" />
             <category term="Primjeri dobre prakse"/>
 
-        <updated>2023-03-04T12:04:53+01:00</updated>
+        <updated>2024-06-19T10:35:48+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://maja.vrancich.com/media/posts/7/aktivacija.skole.hr.png" alt="" />
@@ -438,7 +438,18 @@
             <![CDATA[
                     <p><img src="https://maja.vrancich.com/media/posts/7/aktivacija.skole.hr.png" class="type:primaryImage" alt="" /></p>
                 <p>Carnet omogućava svim korisnicima @skole.hr domene aktivaciju Google usluga. U nastavi ne koristim Google classroom, ali mi je ova opcija svejedno vrlo korisna. Aktivacijom ove usluge, učenici ne moraju na svakoj online aplikaciji stvarati nove korisničke račune (s lozinkama koje će zaboraviti do idućeg sata) već je potrebno da zapamte samo "školske" podatke, a logiraju se klikom na "login with Google", upisujući <a></a> svoje AAI@eduHr podatke.</p>
-<p class="msg msg--highlight ">Stranica na kojoj se vrši aktivacija računa je <a href="https://aktivacija.skole.hr/">https://aktivacija.skole.</a><a href="https://aktivacija.skole.hr/" target="_blank" rel="noopener noreferrer"></a><a href="https://aktivacija.skole.hr/">hr/</a></p>
+<p class="msg msg--highlight ">Stranica na kojoj se vrši aktivacija računa je <a href="https://info.carnet.hr/">https://info.carnet.hr/</a></p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/7/gallery/aktivacija0.png" data-size="1783x782"><img loading="lazy" src="https://maja.vrancich.com/media/posts/7/gallery/aktivacija0-thumbnail.png" alt="Carnet info" width="720" height="316"></a>
+<figcaption>Carnet info</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/7/gallery/aktivacija1.png" data-size="1465x673"><img loading="lazy" src="https://maja.vrancich.com/media/posts/7/gallery/aktivacija1-thumbnail.png" alt="Pošta i usluge u oblaku" width="720" height="331"></a>
+<figcaption>Pošta i usluge u oblaku</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://maja.vrancich.com/media/posts/7/gallery/aktivacija2.png" data-size="851x762"><img loading="lazy" src="https://maja.vrancich.com/media/posts/7/gallery/aktivacija2-thumbnail.png" alt="Google workspace" width="720" height="645"></a>
+<figcaption>Google workspace</figcaption>
+</figure>
+</div></div>
 <p>Postupak same aktivacije je brz i intuitivan. Računajte na to da je Google usluga nakon odrađene aktivacije ponekad dostupna odmah, a ponekad joj treba 30-60 minuta što znači da je najbolje aktivirati uslugu barem tjedan prije samog korištenja, a ne na satu kada vam je potrebna. </p>
             ]]>
         </content>
